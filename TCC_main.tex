@@ -1,0 +1,69 @@
+%=================================================================================================
+%=							      TRABALHO DE CONCLUSÃO DE CURSO								 =
+%=								   LUIZ HENRIQUE PINTO ASSUNÇÃO									 =
+%=================================================================================================
+
+\documentclass[12pt,openright,twoside,a4paper,chapter=TITLE,english,french,spanish,german,brazil]{abntex2}
+
+\usepackage{cmap}											%-> Mapear caracteres especiais no PDF
+\usepackage{lmodern}										%-> Usa a fonte Latin Modern
+\usepackage[T1]{fontenc}									%-> Selecao de códigos de fonte
+\usepackage[utf8]{inputenc}									%-> Codificacao do documento
+\usepackage{lastpage}										%-> Usado pela Ficha catalográfica
+\usepackage{indentfirst}									%-> Indenta o primeiro parágrafo seção
+\usepackage{color}											%-> Controle das cores
+\usepackage{graphicx}										%-> Inclusão de gráficos
+\usepackage{units}											%-> 
+\usepackage[brazilian,hyperpageref]{backref}				%-> 
+\usepackage[alf]{abntex2cite}								%-> 
+\usepackage{bold-extra}										%-> 
+\usepackage{eso-pic}										%-> 
+
+
+\usepackage{00-Setup/02-Customizacoes}						%-> Customizações
+
+\input{00-Setup/01-Setup}									%-> Setup
+\input{00-Setup/03-Comandos}								%-> Comandos
+\input{00-Setup/04-Informacoes}								%-> Informações
+
+
+\begin{document}
+
+% ELEMENTOS PRÉ-TEXTUAIS =========================================================================
+
+\input{01-Elementos-pre-textuais/01-Capa}					%->	Capa
+\input{01-Elementos-pre-textuais/02-Folha-de-rosto}			%->	Folha de Rosto
+\input{01-Elementos-pre-textuais/03-Folha-de-aprovacao}		%-> Folha de Aprovação
+\input{01-Elementos-pre-textuais/04-Dedicatoria}			%-> Dedicatória
+\input{01-Elementos-pre-textuais/05-Agradecimentos}			%-> Agradecimentos
+\input{01-Elementos-pre-textuais/06-Epigrafe}				%-> Epígrafe
+\input{01-Elementos-pre-textuais/07-Resumo}					%-> Resumo				- Português
+\input{01-Elementos-pre-textuais/08-Abstract}				%-> Abstract			- Inglês
+\input{01-Elementos-pre-textuais/09-Zusammenfassung}		%-> Zuzammenfassung		- Alemão
+\input{01-Elementos-pre-textuais/10-Lista-de-ilustracoes}	%-> Lista de Ilustrações
+\input{01-Elementos-pre-textuais/11-Lista-de-tabelas}		%-> Lista de Tabelas
+\input{01-Elementos-pre-textuais/12-Lista-de-abreviaturas}	%-> Lista de Abreviaturas e Siglas
+\input{01-Elementos-pre-textuais/13-Lista-de-simbolos}		%-> Lista de Símbolos
+\input{01-Elementos-pre-textuais/14-Sumario}				%-> Sumário
+
+
+% ELEMENTOS TEXTUAIS =============================================================================
+
+\input{02-Elementos-textuais/01-Introducao}					%-> Introdução
+\input{02-Elementos-textuais/02-Revisao-bibliografica}		%-> Revisão Bibliográfica
+\input{02-Elementos-textuais/03-Desenvolvimento}			%-> Desenvolvimento
+\input{02-Elementos-textuais/04-Resultados}					%-> Resultados
+\input{02-Elementos-textuais/05-Consideracoes-finais}		%-> Considerações Finais
+
+
+% ELEMENTOS PÓS-TEXTUAIS =========================================================================
+
+\input{03-Elementos-pos-textuais/01-Referencias}			%-> Referências
+\input{03-Elementos-pos-textuais/02-Glossario}				%-> Glossário
+\input{03-Elementos-pos-textuais/03-Apendice}				%-> Apêndice
+\input{03-Elementos-pos-textuais/04-Anexo}					%-> Anexo
+
+
+%=================================================================================================
+
+\end{document}
