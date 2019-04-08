@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  8 APR 2019 01:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  8 APR 2019 02:11
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -816,58 +816,66 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 {C:/Users/luizh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ])
-(01-Elementos-pre-textuais/02-Folha-de-rosto.tex)
-(01-Elementos-pre-textuais/03-Ficha-catalografica.tex
-Underfull \hbox (badness 10000) in paragraph at lines 15--31
+(01-Elementos-pre-textuais/02-Folha-de-rosto.tex
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 28.
 
- []
-
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 31.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 31.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 28.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oml.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 31.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 28.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oms.cmap>>
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 31.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 28.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 31.
+(Font)              <12> on input line 28.
 <<omx.cmap>>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 28.
+)
+(01-Elementos-pre-textuais/03-Ficha-catalografica.texpdfTeX warning (ext4): des
+tination with the same identifier (name{page.1}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.12 \begin{center}
+                    % Minipage Centralizado [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 15--31
+
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 31.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 31.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 31.
-)
-(01-Elementos-pre-textuais/04-Folha-de-aprovacao.tex)
+) (01-Elementos-pre-textuais/04-Folha-de-aprovacao.tex)
 (01-Elementos-pre-textuais/05-Dedicatoria.texpdfTeX warning (ext4): destination
- with the same identifier (name{page.1}) has been already used, duplicate ignor
+ with the same identifier (name{page.2}) has been already used, duplicate ignor
 ed
 <to be read again> 
                    \relax 
 l.6 \pretextualchapter{Dedicatória}
-                                     [1
+                                     [2] [3
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.6 \pretextualchapter{Dedicatória}
-                                     [2
-
-] [3] [4
+] [4
 
 ])
 (01-Elementos-pre-textuais/06-Agradecimentos.tex)
@@ -891,14 +899,7 @@ l.6 \pretextualchapter{Dedicatória}
 
 ] [14
 
-]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 7.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 7.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 7.
- [15
+]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex [15
 
 ]
 [16
@@ -963,11 +964,11 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 12570 strings out of 492942
- 189364 string characters out of 3135396
+ 12574 strings out of 492942
+ 189429 string characters out of 3135396
  317271 words of memory out of 3000000
- 16030 multiletter control sequences out of 15000+200000
- 66792 words of font info for 49 fonts, out of 3000000 for 9000
+ 16032 multiletter control sequences out of 15000+200000
+ 72559 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,12n,37p,954b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
@@ -981,7 +982,7 @@ C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
 mss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on TCC_main.pdf (41 pages, 310350 bytes).
+Output written on TCC_main.pdf (41 pages, 311395 bytes).
 PDF statistics:
  459 PDF objects out of 1000 (max. 8388607)
  95 named destinations out of 1000 (max. 500000)
