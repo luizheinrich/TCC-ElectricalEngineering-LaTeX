@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  28 MAR 2019 21:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  8 APR 2019 01:25
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -807,114 +807,130 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 (01-Elementos-pre-textuais/01-Capa.tex
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 5.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 17.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-
-LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
-(Font)              using `T1/lmss/bx/n' instead on input line 5.
-
-[1
+) [1
 
 {C:/Users/luizh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ])
 (01-Elementos-pre-textuais/02-Folha-de-rosto.tex)
 (01-Elementos-pre-textuais/03-Folha-de-aprovacao.tex)
-(01-Elementos-pre-textuais/04-Dedicatoria.tex)
-(01-Elementos-pre-textuais/05-Agradecimentos.tex)
-(01-Elementos-pre-textuais/06-Epigrafe.tex)
-(01-Elementos-pre-textuais/07-Resumo.texpdfTeX warning (ext4): destination with
- the same identifier (name{page.1}) has been already used, duplicate ignored
+(01-Elementos-pre-textuais/04-Dedicatoria.texpdfTeX warning (ext4): destination
+ with the same identifier (name{page.1}) has been already used, duplicate ignor
+ed
 <to be read again> 
                    \relax 
-l.22 \end{resumo}
-                  [1
+l.14 \end{dedicatoria}
+                       [1
+
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 \end{resumo}
-                  [2
+l.14 \end{dedicatoria}
+                       [2
 
-]) (01-Elementos-pre-textuais/08-Abstract.tex)
-(01-Elementos-pre-textuais/09-Zusammenfassung.tex)
-(01-Elementos-pre-textuais/10-Lista-de-ilustracoes.tex (TCC_main.lof) [3]
-[4
+]) (01-Elementos-pre-textuais/05-Agradecimentos.tex)
+(01-Elementos-pre-textuais/06-Epigrafe.tex [3
 
-]) (01-Elementos-pre-textuais/11-Lista-de-tabelas.tex (TCC_main.lot) [5]
-[6
+] [4
 
-]) (01-Elementos-pre-textuais/12-Lista-de-abreviaturas.tex)
-(01-Elementos-pre-textuais/13-Lista-de-simbolos.tex)
-(01-Elementos-pre-textuais/14-Sumario.tex) (TCC_main.toc
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 6.
+])
+(01-Elementos-pre-textuais/07-Resumo.tex)
+(01-Elementos-pre-textuais/08-Abstract.tex [5
+
+] [6
+
+])
+(01-Elementos-pre-textuais/09-Zusammenfassung.tex [7] [8
+
+])
+(01-Elementos-pre-textuais/10-Lista-de-ilustracoes.tex [9] (TCC_main.lof)
+[10]) (01-Elementos-pre-textuais/11-Lista-de-tabelas.tex (TCC_main.lot)
+[11
+
+] [12
+
+]) (01-Elementos-pre-textuais/12-Lista-de-abreviaturas.tex
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 7.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 6.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 7.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oml.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 7.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oms.cmap>>
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 6.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 7.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 6.
+(Font)              <12> on input line 7.
 <<omx.cmap>>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <6> on input line 7.
+ [13
 
+]
+[14
+
+]) (01-Elementos-pre-textuais/13-Lista-de-simbolos.tex)
+(01-Elementos-pre-textuais/14-Sumario.tex (TCC_main.toc
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+ [15]))
+(02-Elementos-textuais/01-Introducao.tex [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7])
-(02-Elementos-textuais/01-Introducao.tex [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9
+ [17
 
 ])
-(02-Elementos-textuais/02-Revisao-bibliografica.tex [10] [11] [12
+(02-Elementos-textuais/02-Revisao-bibliografica.tex [18] [19] [20
 
 ])
-(02-Elementos-textuais/03-Desenvolvimento.tex [13] [14
+(02-Elementos-textuais/03-Desenvolvimento.tex [21] [22
 
 ])
-(02-Elementos-textuais/04-Resultados.tex [15] [16
+(02-Elementos-textuais/04-Resultados.tex [23] [24
 
 ])
-(02-Elementos-textuais/05-Consideracoes-finais.tex [17] [18
+(02-Elementos-textuais/05-Consideracoes-finais.tex [25] [26
 
-] [19])
-(03-Elementos-pos-textuais/01-Referencias.tex [20])
-(03-Elementos-pos-textuais/02-Glossario.tex [21
+] [27])
+(03-Elementos-pos-textuais/01-Referencias.tex [28]
+No file TCC_main.bbl.
+) (03-Elementos-pos-textuais/02-Glossario.tex [29
 
-] [22
-
-])
-(03-Elementos-pos-textuais/03-Apendice.tex [23] [24
-
-] [25])
-(03-Elementos-pos-textuais/04-Anexo.tex [26] [27
+] [30
 
 ])
+(03-Elementos-pos-textuais/03-Apendice.tex [31] [32
+
+] [33])
+(03-Elementos-pos-textuais/04-Anexo.tex [34] [35
+
+])
+(03-Elementos-pos-textuais/05-Indice.tex [36])
+No file TCC_main.ind.
 
 AED: lastpage setting LastPage
-[28]
+[37
+
+]
 \tf@lof=\write5
 \openout5 = `TCC_main.lof'.
 
@@ -924,33 +940,35 @@ AED: lastpage setting LastPage
 \tf@toc=\write7
 \openout7 = `TCC_main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
  (TCC_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 69.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 72.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
- 12469 strings out of 492942
- 186642 string characters out of 3135396
- 317351 words of memory out of 3000000
- 15995 multiletter control sequences out of 15000+200000
- 41512 words of font info for 36 fonts, out of 3000000 for 9000
+ 12525 strings out of 492942
+ 188551 string characters out of 3135396
+ 317271 words of memory out of 3000000
+ 16012 multiletter control sequences out of 15000+200000
+ 53236 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,11n,37p,954b,542s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
-mr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on TCC_main.pdf (30 pages, 183499 bytes).
+ 39i,12n,37p,954b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
+mi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
+mssbx10.pfb>
+Output written on TCC_main.pdf (39 pages, 284663 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 446 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
 
