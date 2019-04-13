@@ -3,17 +3,32 @@
 %=================================================================================================
 
 
+\thispagestyle{empty}
 \newpage
 \begin{fichacatalografica}
 	\sffamily
 	\vspace*{\fill}								%-> Posição vertical
+	
+	
+	
+	
 	\begin{center}								%-> Minipage Centralizado
-	\fbox{\begin{minipage}[c][8cm]{13.5cm}		%-> Largura
+	%\hspace*{\fill}
+	
+	\begin{center}
+	Ficha de Identificação da obra elaborada pelo autor, \\
+	através do Programa de Geração Automática da Biblioteca Central da UFPA.
+	\hspace*{-1 cm}
+	\end{center}
+	\vspace*{0.1 cm}
+	
+	\fbox{\begin{minipage}[c][8cm]{13.5cm}		%-> [Altura] [Largura]
 	\small
+	
 	\imprimircitarautor
 	%Sobrenome, Nome do autor
 	
-	\hspace{0.5cm} \imprimirtitulo  / \imprimirautor. --
+	\hspace{0.5cm} \imprimirtitulo\  / \imprimirautor. --
 	\imprimirlocal, \imprimirdata-
 	
 	\hspace{0.5cm} \thelastpage p. : il. (algumas color.) ; 30 cm.\\
@@ -32,11 +47,16 @@
 		I.		\imprimirorientador.
 		II.		\imprimirinstituicao.				% Universidade
 		III.	\imprimirfaculdade.
-		IV. 	Título 		
+		IV. 	\imprimirtitulo 		
 		
 \hspace{8.75cm} CDU 02:141:005.7\\
 	
 	\end{minipage}}
+	\hspace*{-1 cm}
+	
+	
 	\end{center}
+	\vspace*{\fill}
+	
 	
 \end{fichacatalografica}

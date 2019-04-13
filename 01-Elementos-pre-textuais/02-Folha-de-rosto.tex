@@ -9,29 +9,30 @@
 {\ABNTEXchapterfont\large\imprimirautor}
 \vspace*{\fill}\vspace*{\fill}
 
-
+	\vspace*{4 cm}
 	\begin{center}
 	\ABNTEXchapterfont\bfseries\Large\imprimirtitulo
 	\end{center}
 
 
-\vspace*{\fill}
+	\vspace*{\fill}
 
 
-\hspace{.45\textwidth}
+	\hspace{.45\textwidth}
     \begin{minipage}{.5\textwidth}
-        \imprimirpreambulo
+        \imprimirpreambulo \par					%-> Para alterar, acesse "02-Customizacoes.sty"
+        
+        \vspace*{0.7 cm}
+        {\large Orientador: \imprimirorientador} \par \vspace*{0.5 cm}
+		{\large Coorientador: \imprimircoorientador}
     \end{minipage}%
     \vspace*{\fill}
 
 
+%{\imprimirinstituicao
+%\vspace*{\fill}}
 
 
-{\imprimirinstituicao
-\vspace*{\fill}}
-
-{\large\imprimirorientadorRotulo~\imprimirorientador\par}
-{\imprimircoorientador}
 
 
 % LOCAL E DATA ---------------------------------------------------------------------
@@ -41,5 +42,7 @@
 \par
 {\large\imprimirdata}
 \vspace*{1cm}
+
+% ----------------------------------------------------------------------------------
 
 \end{center}
