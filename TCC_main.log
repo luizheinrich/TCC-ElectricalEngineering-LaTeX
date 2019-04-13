@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  8 APR 2019 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  12 APR 2019 22:05
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -904,47 +904,61 @@ l.6 \pretextualchapter{Dedicatória}
 ]
 [16
 
-]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex)
-(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc
-Underfull \vbox (badness 4913) has occurred while \output is active []
+]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex [17
 
- [17]))
-(02-Elementos-textuais/01-Introducao.tex [18]
+] [18
+
+])
+(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [19]))
+(02-Elementos-textuais/01-Introducao.tex [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19
+ [21
+
+]
+[22]) (02-Elementos-textuais/02-Revisao-bibliografica.tex [23] [24
 
 ])
-(02-Elementos-textuais/02-Revisao-bibliografica.tex [20] [21] [22
+(02-Elementos-textuais/03-Desenvolvimento.tex [25] [26
 
-])
-(02-Elementos-textuais/03-Desenvolvimento.tex [23] [24
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-])
-(02-Elementos-textuais/04-Resultados.tex [25] [26
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-])
-(02-Elementos-textuais/05-Consideracoes-finais.tex [27] [28
+ [28]
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [29])
-(03-Elementos-pos-textuais/01-Referencias.tex [30]
+ [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+[32] [33]) (02-Elementos-textuais/04-Resultados.tex [34])
+(02-Elementos-textuais/05-Consideracoes-finais.tex [35
+
+] [36
+
+] [37])
+(03-Elementos-pos-textuais/01-Referencias.tex [38]
 No file TCC_main.bbl.
-) (03-Elementos-pos-textuais/02-Glossario.tex [31
+) (03-Elementos-pos-textuais/02-Glossario.tex [39
 
-] [32
-
-])
-(03-Elementos-pos-textuais/03-Apendice.tex [33] [34
-
-] [35])
-(03-Elementos-pos-textuais/04-Anexo.tex [36] [37
+] [40
 
 ])
-(03-Elementos-pos-textuais/05-Indice.tex [38])
+(03-Elementos-pos-textuais/03-Apendice.tex [41] [42
+
+] [43])
+(03-Elementos-pos-textuais/04-Anexo.tex [44] [45
+
+])
+(03-Elementos-pos-textuais/05-Indice.tex [46])
 No file TCC_main.ind.
 
 AED: lastpage setting LastPage
-[39
+[47
 
 ]
 \tf@lof=\write5
@@ -964,27 +978,30 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 12574 strings out of 492942
- 189429 string characters out of 3135396
+ 12590 strings out of 492942
+ 189559 string characters out of 3135396
  317271 words of memory out of 3000000
- 16032 multiletter control sequences out of 15000+200000
+ 16035 multiletter control sequences out of 15000+200000
  72559 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,12n,37p,954b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
-iKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
-mi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
-mss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on TCC_main.pdf (41 pages, 311395 bytes).
+iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit
+.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmsy10.pfb>
+Output written on TCC_main.pdf (49 pages, 340636 bytes).
 PDF statistics:
- 459 PDF objects out of 1000 (max. 8388607)
- 95 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 519 PDF objects out of 1000 (max. 8388607)
+ 108 named destinations out of 1000 (max. 500000)
+ 365 words of extra memory for PDF output out of 10000 (max. 10000000)
 
