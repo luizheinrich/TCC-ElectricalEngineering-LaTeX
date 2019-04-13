@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  12 APR 2019 22:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  13 APR 2019 02:44
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -817,148 +817,171 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 ])
 (01-Elementos-pre-textuais/02-Folha-de-rosto.tex
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 28.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 23.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oml.cmap>>
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 23.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oms.cmap>>
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 28.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 23.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 28.
+(Font)              <12> on input line 23.
 <<omx.cmap>>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 23.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 28.
+(Font)              <6> on input line 23.
 )
 (01-Elementos-pre-textuais/03-Ficha-catalografica.texpdfTeX warning (ext4): des
 tination with the same identifier (name{page.1}) has been already used, duplica
 te ignored
 <to be read again> 
                    \relax 
-l.12 \begin{center}
-                    % Minipage Centralizado [1
+l.6 \newpage
+             [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 15--31
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+
+Overfull \hbox (16.6597pt too wide) in paragraph at lines 39--39
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 31.
+(Font)              <10> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 39.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 31.
-) (01-Elementos-pre-textuais/04-Folha-de-aprovacao.tex)
-(01-Elementos-pre-textuais/05-Dedicatoria.texpdfTeX warning (ext4): destination
- with the same identifier (name{page.2}) has been already used, duplicate ignor
-ed
+(Font)              <5> on input line 39.
+) (01-Elementos-pre-textuais/04-Folha-de-aprovacao.texpdfTeX warning (ext4): de
+stination with the same identifier (name{page.2}) has been already used, duplic
+ate ignored
 <to be read again> 
                    \relax 
-l.6 \pretextualchapter{Dedicatória}
-                                     [2] [3
+l.7 
+     [2] [3
 
 ] [4
 
-])
-(01-Elementos-pre-textuais/06-Agradecimentos.tex)
-(01-Elementos-pre-textuais/07-Epigrafe.tex [5
+]) (01-Elementos-pre-textuais/05-Dedicatoria.tex [5
 
 ] [6
 
 ])
-(01-Elementos-pre-textuais/08-Resumo.tex)
-(01-Elementos-pre-textuais/09-Abstract.tex [7
+(01-Elementos-pre-textuais/06-Agradecimentos.tex)
+(01-Elementos-pre-textuais/07-Epigrafe.tex [7
 
 ] [8
 
 ])
-(01-Elementos-pre-textuais/10-Zusammenfassung.tex [9] [10
+(01-Elementos-pre-textuais/08-Resumo.tex)
+(01-Elementos-pre-textuais/09-Abstract.tex [9
+
+] [10
 
 ])
-(01-Elementos-pre-textuais/11-Lista-de-ilustracoes.tex [11] (TCC_main.lof)
-[12]) (01-Elementos-pre-textuais/12-Lista-de-tabelas.tex (TCC_main.lot)
-[13
-
-] [14
-
-]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex [15
-
-]
-[16
-
-]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex [17
-
-] [18
+(01-Elementos-pre-textuais/10-Zusammenfassung.tex [11] [12
 
 ])
-(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [19]))
-(02-Elementos-textuais/01-Introducao.tex [20]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(01-Elementos-pre-textuais/11-Lista-de-ilustracoes.tex [13] (TCC_main.lof)
+[14]) (01-Elementos-pre-textuais/12-Lista-de-tabelas.tex (TCC_main.lot)
+[15
 
- [21
+] [16
+
+]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex [17
 
 ]
-[22]) (02-Elementos-textuais/02-Revisao-bibliografica.tex [23] [24
+[18
+
+]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex [19
+
+] [20
 
 ])
-(02-Elementos-textuais/03-Desenvolvimento.tex [25] [26
+(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [21]))
+(02-Elementos-textuais/01-Introducao.tex [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23
+
+]
+[24]) (02-Elementos-textuais/02-Revisao-bibliografica.tex [25] [26
+
+])
+(02-Elementos-textuais/03-Desenvolvimento.tex [27] [28
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-[29]
+ [29]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30]
+[31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
-[32] [33]) (02-Elementos-textuais/04-Resultados.tex [34])
-(02-Elementos-textuais/05-Consideracoes-finais.tex [35
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [36
+ [33]
+[34] [35]) (02-Elementos-textuais/04-Resultados.tex [36])
+(02-Elementos-textuais/05-Consideracoes-finais.tex [37
 
-] [37])
-(03-Elementos-pos-textuais/01-Referencias.tex [38]
+] [38
+
+] [39])
+(03-Elementos-pos-textuais/01-Referencias.tex [40]
 No file TCC_main.bbl.
-) (03-Elementos-pos-textuais/02-Glossario.tex [39
+) (03-Elementos-pos-textuais/02-Glossario.tex [41
 
-] [40
-
-])
-(03-Elementos-pos-textuais/03-Apendice.tex [41] [42
-
-] [43])
-(03-Elementos-pos-textuais/04-Anexo.tex [44] [45
+] [42
 
 ])
-(03-Elementos-pos-textuais/05-Indice.tex [46])
+(03-Elementos-pos-textuais/03-Apendice.tex [43] [44
+
+] [45])
+(03-Elementos-pos-textuais/04-Anexo.tex [46] [47
+
+])
+(03-Elementos-pos-textuais/05-Indice.tex [48])
 No file TCC_main.ind.
 
 AED: lastpage setting LastPage
-[47
+[49
 
 ]
 \tf@lof=\write5
@@ -970,19 +993,19 @@ AED: lastpage setting LastPage
 \tf@toc=\write7
 \openout7 = `TCC_main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
  (TCC_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 74.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 12590 strings out of 492942
- 189559 string characters out of 3135396
- 317271 words of memory out of 3000000
- 16035 multiletter control sequences out of 15000+200000
- 72559 words of font info for 51 fonts, out of 3000000 for 9000
+ 12602 strings out of 492942
+ 189705 string characters out of 3135396
+ 317374 words of memory out of 3000000
+ 16040 multiletter control sequences out of 15000+200000
+ 78321 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,12n,37p,954b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
@@ -993,15 +1016,16 @@ Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmsy10.pfb>
-Output written on TCC_main.pdf (49 pages, 340636 bytes).
+eX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+
+Output written on TCC_main.pdf (51 pages, 361680 bytes).
 PDF statistics:
- 519 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
- 365 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 537 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
+ 373 words of extra memory for PDF output out of 10000 (max. 10000000)
 
