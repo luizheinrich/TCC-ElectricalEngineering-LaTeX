@@ -39,7 +39,7 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es Finais}}{39}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Conclus\IeC {\~a}o}{39}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Sugest\IeC {\~o}es para Trabalhos Futuros}{39}{section.5.2}% 
+\contentsline {section}{\numberline {5.2}Trabalhos Atuais e Sugest\IeC {\~o}es Para Trabalhos Futuros}{39}{section.5.2}% 
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}}{41}{chapter.6}% 
