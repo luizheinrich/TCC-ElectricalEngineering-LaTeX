@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  15 APR 2019 01:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  16 APR 2019 19:11
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -725,8 +725,8 @@ Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 )
 (00-Setup/01-Setup.tex
-Package color Info: Redefining color blue on input line 13.
-Package hyperref Info: Option `colorlinks' set `true' on input line 28.
+Package color Info: Redefining color blue on input line 14.
+Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 \TCC_main@idxfile=\write4
 \openout4 = `TCC_main.idx'.
 
@@ -900,91 +900,95 @@ l.7
 ] [6
 
 ])
-(01-Elementos-pre-textuais/06-Agradecimentos.tex)
-(01-Elementos-pre-textuais/07-Epigrafe.tex [7
+(01-Elementos-pre-textuais/06-Agradecimentos.tex [7
 
 ] [8
 
 ])
-(01-Elementos-pre-textuais/08-Resumo.tex)
-(01-Elementos-pre-textuais/09-Abstract.tex [9
+(01-Elementos-pre-textuais/07-Epigrafe.tex [9
 
 ] [10
 
 ])
-(01-Elementos-pre-textuais/10-Zusammenfassung.tex [11] [12
+(01-Elementos-pre-textuais/08-Resumo.tex)
+(01-Elementos-pre-textuais/09-Abstract.tex [11
+
+] [12
 
 ])
-(01-Elementos-pre-textuais/11-Lista-de-ilustracoes.tex [13] (TCC_main.lof)
-[14]) (01-Elementos-pre-textuais/12-Lista-de-tabelas.tex (TCC_main.lot)
-[15
+(01-Elementos-pre-textuais/10-Zusammenfassung.tex [13] [14
 
-] [16
+])
+(01-Elementos-pre-textuais/11-Lista-de-ilustracoes.tex [15] (TCC_main.lof)
+[16]) (01-Elementos-pre-textuais/12-Lista-de-tabelas.tex (TCC_main.lot)
+[17
 
-]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex [17
+] [18
+
+]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex [19
 
 ]
-[18
+[20
 
-]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex [19
+]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex [21
 
-] [20
+] [22
 
 ])
-(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [21]))
-(02-Elementos-textuais/01-Introducao.tex [22]
+(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [23]))
+(02-Elementos-textuais/01-Introducao.tex [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23
+ [25
 
 ]
-[24]
+[26]
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
- [25])
-(02-Elementos-textuais/02-Revisao-bibliografica.tex [26])
-(02-Elementos-textuais/03-Desenvolvimento.tex [27
+ [27])
+(02-Elementos-textuais/02-Revisao-bibliografica.tex [28])
+(02-Elementos-textuais/03-Desenvolvimento.tex [29
 
-] [28
+] [30
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-[31]
+ [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
+[33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
-[34] [35]) (02-Elementos-textuais/04-Resultados.tex [36])
-(02-Elementos-textuais/05-Consideracoes-finais.tex [37
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [38
+ [35]
+[36] [37]) (02-Elementos-textuais/04-Resultados.tex [38])
+(02-Elementos-textuais/05-Consideracoes-finais.tex [39
 
-] [39])
-(03-Elementos-pos-textuais/01-Referencias.tex [40]
+] [40
+
+] [41])
+(03-Elementos-pos-textuais/01-Referencias.tex [42]
 No file TCC_main.bbl.
-) (03-Elementos-pos-textuais/02-Glossario.tex [41
+) (03-Elementos-pos-textuais/02-Glossario.tex [43
 
-] [42
-
-])
-(03-Elementos-pos-textuais/03-Apendice.tex [43] [44
-
-] [45])
-(03-Elementos-pos-textuais/04-Anexo.tex [46] [47
+] [44
 
 ])
-(03-Elementos-pos-textuais/05-Indice.tex [48])
+(03-Elementos-pos-textuais/03-Apendice.tex [45] [46
+
+] [47])
+(03-Elementos-pos-textuais/04-Anexo.tex [48] [49
+
+])
+(03-Elementos-pos-textuais/05-Indice.tex [50])
 No file TCC_main.ind.
 
 AED: lastpage setting LastPage
-[49
+[51
 
 ]
 \tf@lof=\write5
@@ -1004,10 +1008,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
  ) 
 Here is how much of TeX's memory you used:
- 12599 strings out of 492942
- 189605 string characters out of 3135396
+ 12605 strings out of 492942
+ 189659 string characters out of 3135396
  317467 words of memory out of 3000000
- 16041 multiletter control sequences out of 15000+200000
+ 16042 multiletter control sequences out of 15000+200000
  75329 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,12n,37p,954b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1025,9 +1029,9 @@ eX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
  Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/lm/lmsy10.pfb>
-Output written on TCC_main.pdf (51 pages, 348812 bytes).
+Output written on TCC_main.pdf (53 pages, 350297 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
- 113 named destinations out of 1000 (max. 500000)
- 381 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 553 PDF objects out of 1000 (max. 8388607)
+ 118 named destinations out of 1000 (max. 500000)
+ 389 words of extra memory for PDF output out of 10000 (max. 10000000)
 
