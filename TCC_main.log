@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  16 APR 2019 19:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  20 APR 2019 01:13
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -689,6 +689,53 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen163
 \Gin@req@width=\dimen164
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/svg\svg.sty"
+Package: svg 2018/11/12 v2.02b (include SVG pictures)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrbase.sty"
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlfile.sty"
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+
+
+LaTeX Warning: Command \InputIfFileExists  has changed.
+               Check if current package is valid.
+
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\shellesc.sty"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/trimspaces\trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\svg@box=\box33
+\c@svg@param@lastpage=\count175
+\c@svg@param@currpage=\count176
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\transparent.sty"
+Package: transparent 2018/11/18 v1.3 Transparency via pdfTeX's color stack (HO)
+
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/units\units.sty"
 Package: units 1998/08/04 v0.9b Typesetting units
 
@@ -707,8 +754,8 @@ Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
 ("C:\Program Files\MiKTeX 2.9\tex/latex/abntex2\abntex2abrev.sty")
 \minimumbiblabelwidth=\skip260
 \ABCIauxlen=\skip261
-\c@ABCIaux=\count175
-\c@ABCImax=\count176
+\c@ABCIaux=\count177
+\c@ABCImax=\count178
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/relsize\relsize.sty"
 Package: relsize 2013/03/29 ver 4.1
@@ -725,7 +772,6 @@ Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 )
 (00-Setup/01-Setup.tex
-Package color Info: Redefining color blue on input line 14.
 Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 \TCC_main@idxfile=\write4
 \openout4 = `TCC_main.idx'.
@@ -735,27 +781,27 @@ Writing index file TCC_main.idx
 ) (00-Setup/02-Comandos.tex) (00-Setup/03-Informacoes.tex) (TCC_main.aux)
 \openout1 = `TCC_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring ON on input line 29.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring ON on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -763,34 +809,32 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count177
+\c@section@level=\count179
 )
-Redoing nameref's sectioning
-Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 29.
-LaTeX Info: Redefining \ref on input line 29.
-LaTeX Info: Redefining \pageref on input line 29.
-LaTeX Info: Redefining \nameref on input line 29.
-LaTeX Info: Redefining \degres on input line 29.
-LaTeX Info: Redefining \dots on input line 29.
-LaTeX Info: Redefining \up on input line 29.
-\myptabbox=\box34
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \degres on input line 30.
+LaTeX Info: Redefining \dots on input line 30.
+LaTeX Info: Redefining \up on input line 30.
+\myptabbox=\box35
 \myptabboxwidth=\skip263
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 29.
+(lastpage)             ! on input line 30.
+
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count178
+\scratchcounter=\count180
 \scratchdimen=\dimen165
-\scratchbox=\box35
-\nofMPsegments=\count179
-\nofMParguments=\count180
+\scratchbox=\box36
+\nofMPsegments=\count181
+\nofMParguments=\count182
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count181
+\MPscratchCnt=\count183
 \MPscratchDim=\dimen166
-\MPnumerator=\count182
-\makeMPintoPDFobject=\count183
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
 \everyMPtoPDFconversion=\toks30
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -910,85 +954,85 @@ l.7
 ] [10
 
 ])
-(01-Elementos-pre-textuais/08-Resumo.tex)
-(01-Elementos-pre-textuais/09-Abstract.tex [11
-
-] [12
+(01-Elementos-pre-textuais/08-Resumo.tex [11] [12
 
 ])
-(01-Elementos-pre-textuais/10-Zusammenfassung.tex [13] [14
+(01-Elementos-pre-textuais/09-Abstract.tex [13] [14
 
 ])
-(01-Elementos-pre-textuais/11-Lista-de-ilustracoes.tex [15] (TCC_main.lof)
-[16]) (01-Elementos-pre-textuais/12-Lista-de-tabelas.tex (TCC_main.lot)
-[17
+(01-Elementos-pre-textuais/10-Zusammenfassung.tex [15] [16
 
-] [18
+])
+(01-Elementos-pre-textuais/11-Lista-de-ilustracoes.tex (TCC_main.lof) [17]
+[18
 
-]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex [19
+]) (01-Elementos-pre-textuais/12-Lista-de-tabelas.tex (TCC_main.lot)
+[19] [20
+
+]) (01-Elementos-pre-textuais/13-Lista-de-abreviaturas.tex [21
 
 ]
-[20
+[22
 
-]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex [21
+]) (01-Elementos-pre-textuais/14-Lista-de-simbolos.tex [23
 
-] [22
+] [24
 
 ])
-(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [23]))
-(02-Elementos-textuais/01-Introducao.tex [24]
+(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [25]))
+(02-Elementos-textuais/01-Introducao.tex [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25
+ [27
 
 ]
-[26]
+[28]
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
- [27])
-(02-Elementos-textuais/02-Revisao-bibliografica.tex [28])
-(02-Elementos-textuais/03-Desenvolvimento.tex [29
+ [29])
+(02-Elementos-textuais/02-Revisao-bibliografica.tex [30])
+(02-Elementos-textuais/03-Desenvolvimento.tex [31
 
-] [30
+] [32
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-[33]
+ [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [34]
+[35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-[36] [37]) (02-Elementos-textuais/04-Resultados.tex [38])
-(02-Elementos-textuais/05-Consideracoes-finais.tex [39
+ [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [40
+ [37]
+[38] [39]) (02-Elementos-textuais/04-Resultados.tex [40])
+(02-Elementos-textuais/05-Consideracoes-finais.tex [41
 
-] [41])
-(03-Elementos-pos-textuais/01-Referencias.tex [42]
+] [42
+
+] [43])
+(03-Elementos-pos-textuais/01-Referencias.tex [44]
 No file TCC_main.bbl.
-) (03-Elementos-pos-textuais/02-Glossario.tex [43
+) (03-Elementos-pos-textuais/02-Glossario.tex [45
 
-] [44
-
-])
-(03-Elementos-pos-textuais/03-Apendice.tex [45] [46
-
-] [47])
-(03-Elementos-pos-textuais/04-Anexo.tex [48] [49
+] [46
 
 ])
-(03-Elementos-pos-textuais/05-Indice.tex [50])
+(03-Elementos-pos-textuais/03-Apendice.tex [47] [48
+
+] [49])
+(03-Elementos-pos-textuais/04-Anexo.tex [50] [51
+
+])
+(03-Elementos-pos-textuais/05-Indice.tex [52])
 No file TCC_main.ind.
 
 AED: lastpage setting LastPage
-[51
+[53
 
 ]
 \tf@lof=\write5
@@ -1000,21 +1044,21 @@ AED: lastpage setting LastPage
 \tf@toc=\write7
 \openout7 = `TCC_main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
  (TCC_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 73.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 74.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 12605 strings out of 492942
- 189659 string characters out of 3135396
- 317467 words of memory out of 3000000
- 16042 multiletter control sequences out of 15000+200000
+ 13672 strings out of 492942
+ 207075 string characters out of 3135396
+ 364177 words of memory out of 3000000
+ 17083 multiletter control sequences out of 15000+200000
  75329 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,37p,954b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,12n,42p,954b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
 nc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit
@@ -1029,9 +1073,9 @@ eX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
  Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/lm/lmsy10.pfb>
-Output written on TCC_main.pdf (53 pages, 350297 bytes).
+Output written on TCC_main.pdf (55 pages, 355068 bytes).
 PDF statistics:
- 553 PDF objects out of 1000 (max. 8388607)
- 118 named destinations out of 1000 (max. 500000)
+ 559 PDF objects out of 1000 (max. 8388607)
+ 117 named destinations out of 1000 (max. 500000)
  389 words of extra memory for PDF output out of 10000 (max. 10000000)
 

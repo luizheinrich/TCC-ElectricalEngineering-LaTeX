@@ -16,57 +16,66 @@
 % ---------------------------------------------------
 
 
-%\providecommand{\ABNTtextoaprovacaodata}{}
-%\newcommand{\textoaprovacao}[1]{\renewcommand{\ABNTtextoaprovacaodata}{#1}}
-
-
-%\providecommand{\chapter}{\textsc{\chapter}}
-%\newcommand{\textoaprovacao}[1]{\renewcommand{\chapter}{#1}}
-
-
 % COMANDOS DE INFORMAÇÕES GERAIS DO DOCUMENTO ====================================================
 
-\newcommand{\citarautor}[1]{\def\imprimircitarautor{#1}}
 
-\newcommand{\instituto}[1]{\def\imprimirinstituto{#1}}
-\newcommand{\faculdade}[1]{\def\imprimirfaculdade{#1}}
-\newcommand{\curso}[1]{\def\imprimircurso{#1}}
-\newcommand{\grauacademico}[1]{\def\imprimirgrauacademico{#1}}
+% INFORMAÇÕES GERAIS -----------------------------------------------------------------------------
 
+\newcommand{\citarautor}[1]{\def\imprimircitarautor{#1}}	%-> Comando para Citação de Autor
 
-\newcommand{\palavraChaveUm}[1]{\def\imprimirpalavrachaveum{#1}}
-\newcommand{\palavraChaveDois}[1]{\def\imprimirpalavrachavedois{#1}}
-\newcommand{\palavraChaveTres}[1]{\def\imprimirpalavrachavetres{#1}}
+\newcommand{\instituto}[1]{\def\imprimirinstituto{#1}}		%-> Comando para Instituto
 
+\newcommand{\faculdade}[1]{\def\imprimirfaculdade{#1}}		%-> Comando para Faculdade
 
-\newcommand{\orientadorTitulacao}[1]{\def\imprimirorientadorTitulacao{#1}}
-\newcommand{\coorientadorTitulacao}[1]{\def\imprimircoorientadorTitulacao{#1}}
+\newcommand{\curso}[1]{\def\imprimircurso{#1}}				%-> Comando para Curso
+
+\newcommand{\grauacademico}									%-> Comando para Grau Acadêmico
+[1]{\def\imprimirgrauacademico{#1}}
 
 
-\newcommand{\cdu}[1]{\def\nomecdu{#1}}
-\newcommand{\dataDaAprovacao}[1]{\def\imprimirdatadaaprovacao{#1}}
+% PALAVRAS-CHAVES --------------------------------------------------------------------------------
+
+\newcommand{\palavraChaveUm}								%-> Comando para Palavra-Chave 01
+[1]{\def\imprimirpalavrachaveum{#1}}
+
+\newcommand{\palavraChaveDois}								%-> Comando para Palavra-Chave 02
+[1]{\def\imprimirpalavrachavedois{#1}}
+
+\newcommand{\palavraChaveTres}								%-> Comando para Palavra-Chave 03
+[1]{\def\imprimirpalavrachavetres{#1}}
 
 
-\newcommand{\membroConvidadoUm}[1]{\def\imprimirmembroconvidadoum{#1}}
-\newcommand{\membroConvidadoUmTitulacao}[1]{\def\imprimirmembroConvidadoUmTitulacao{#1}}
+% ORIENTADOR E COORIENTADOR - TITULAÇÃO ACADÊMICA ------------------------------------------------
 
-\newcommand{\membroConvidadoDois}[1]{\def\imprimirmembroconvidadodois{#1}}
-\newcommand{\membroConvidadoDoisTitulacao}[1]{\def\imprimirmembroConvidadoDoisTitulacao{#1}}
+\newcommand{\orientadorTitulacao}							%-> Titulação do Orientador
+[1]{\def\imprimirorientadorTitulacao{#1}}
+
+\newcommand{\coorientadorTitulacao}							%-> Titulação do Coorientador
+[1]{\def\imprimircoorientadorTitulacao{#1}}
 
 
-% COMANDO DE INFORMAÇÕES GERAIS DO DOCUMENTO =====================================================
+% MEMBROS CONVIDADOS E TITULAÇÃO ACADÊMICA -------------------------------------------------------
 
-\newcommand\BackgroundPic{%
-	\put(0,0){%
-		\parbox[b][\paperheight]{\paperwidth}{%
-			\vfill
-			\centering
-			%\includegraphics[width=\paperwidth,height=\paperheight,%
-			%	keepaspectratio]{figuras/capa.eps}%
-			\vfill
-		}
-	}
-}
+\newcommand{\membroConvidadoUm}								%-> Comando para Membro Convidado 01
+[1]{\def\imprimirmembroconvidadoum{#1}}
+
+\newcommand{\membroConvidadoUmTitulacao}					%-> Titulação do Membro Convidado 01
+[1]{\def\imprimirmembroConvidadoUmTitulacao{#1}}
+
+\newcommand{\membroConvidadoDois}							%-> Comando para Membro Convidado 02
+[1]{\def\imprimirmembroconvidadodois{#1}}
+
+\newcommand{\membroConvidadoDoisTitulacao}					%-> Titulação do Membro Convidado 02
+[1]{\def\imprimirmembroConvidadoDoisTitulacao{#1}}
+
+
+% FICHA CATALOGRÁFICA E FOLHA DE APROVAÇÃO -------------------------------------------------------
+
+\newcommand{\cdu}[1]{\def\nomecdu{#1}}						%-> Comando para CDU
+
+\newcommand{\dataDaAprovacao}								%-> Comando para Data de Aprovação
+[1]{\def\imprimirdatadaaprovacao{#1}}
+
 
 
 % COMANDO DE CITAÇÕES (CONFIGURAÇÕES DO PACOTE BACKREF) ==========================================
@@ -88,6 +97,16 @@
 		Citado #1 vezes nas páginas #2.%
 		
 \fi}%
+
+
+% COMANDOS DE CONFIGURAÇÕES DE CAPÍTULOS ==========================================
+
+%\providecommand{\ABNTtextoaprovacaodata}{}
+%\newcommand{\textoaprovacao}[1]{\renewcommand{\ABNTtextoaprovacaodata}{#1}}
+
+
+\providecommand{\chapter}{\textsc{\chapter}}
+%\newcommand{\textoaprovacao}[1]{\renewcommand{\chapter}{#1}}
 
 
 %=================================================================================================
