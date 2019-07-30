@@ -5,5 +5,5 @@ Instituição: Universidade Federal do Pará - UFPA
 Instituto: Istituto de Tecnologia - ITEC
 Curso: Engenharia Elétrica
 Cidade: Belém
-Categoria: Trabalho acadêmico
+Categoria: Monografia
 Tags: TCC, engenharia, elétrica
