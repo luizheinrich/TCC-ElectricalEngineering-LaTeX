@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  25 APR 2019 04:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  30 JUL 2019 00:38
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -689,52 +689,13 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \Gin@req@height=\dimen163
 \Gin@req@width=\dimen164
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/svg\svg.sty"
-Package: svg 2018/11/12 v2.02b (include SVG pictures)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrbase.sty"
-Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
- basics and keyval usage)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlfile.sty"
-Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
-
-
-LaTeX Warning: Command \InputIfFileExists  has changed.
-               Check if current package is valid.
-
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\shellesc.sty"
-Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
-Package shellesc Info: Restricted shell escape enabled on input line 69.
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/trimspaces\trimspaces.sty"
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)
-\svg@box=\box33
-\c@svg@param@lastpage=\count175
-\c@svg@param@currpage=\count176
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\transparent.sty"
-Package: transparent 2018/11/18 v1.3 Transparency via pdfTeX's color stack (HO)
-
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count175
+\float@exts=\toks28
+\float@box=\box33
+\@float@everytoks=\toks29
+\@floatcapt=\box34
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/units\units.sty"
 Package: units 1998/08/04 v0.9b Typesetting units
@@ -745,25 +706,76 @@ Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseTextstyle=\skip258
 \L@UnitsRaiseScriptstyle=\skip259
 ))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip260
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen165
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen166
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count176
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count177
+\leftroot@=\count178
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count179
+\DOTSCASE@=\count180
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box35
+\strutbox@=\box36
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count181
+\c@MaxMatrixCols=\count182
+\dotsspace@=\muskip11
+\c@parentequation=\count183
+\dspbrk@lvl=\count184
+\tag@help=\toks31
+\row@=\count185
+\column@=\count186
+\maxfields@=\count187
+\andhelp@=\toks32
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks33
+\multlinegap=\skip261
+\multlinetaggap=\skip262
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\backref.sty"
 Package: backref 2016/05/21 v1.39 Bibliographical back referencing
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/abntex2\abntex2cite.sty"
-Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/abntex2\abntex2abrev.sty")
-\minimumbiblabelwidth=\skip260
-\ABCIauxlen=\skip261
-\c@ABCIaux=\count177
-\c@ABCImax=\count178
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/relsize\relsize.sty"
-Package: relsize 2013/03/29 ver 4.1
-)
-\biblabelsep=\skip262
-LaTeX Info: Redefining \newblock on input line 591.
-LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks28
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/bold-extra\bold-extra.sty"
 Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
@@ -771,7 +783,12 @@ Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
 ("C:\Program Files\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 )
-(00-Setup/01-Setup.tex
+("C:\Program Files\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (00-Setup/01-Setup.tex
+Package color Info: Redefining color blue on input line 14.
 Package hyperref Info: Option `colorlinks' set `true' on input line 29.
 \TCC_main@idxfile=\write4
 \openout4 = `TCC_main.idx'.
@@ -781,27 +798,27 @@ Writing index file TCC_main.idx
 ) (00-Setup/02-Comandos.tex) (00-Setup/03-Informacoes.tex) (TCC_main.aux)
 \openout1 = `TCC_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 35.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring ON on input line 30.
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring ON on input line 35.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -809,33 +826,35 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count179
+\c@section@level=\count188
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
-LaTeX Info: Redefining \degres on input line 30.
-LaTeX Info: Redefining \dots on input line 30.
-LaTeX Info: Redefining \up on input line 30.
-\myptabbox=\box35
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \degres on input line 35.
+LaTeX Info: Redefining \dots on input line 35.
+LaTeX Info: Redefining \up on input line 35.
+\myptabbox=\box38
 \myptabboxwidth=\skip263
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 30.
-
+(lastpage)             ! on input line 35.
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count180
-\scratchdimen=\dimen165
-\scratchbox=\box36
-\nofMPsegments=\count181
-\nofMParguments=\count182
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count183
-\MPscratchDim=\dimen166
-\MPnumerator=\count184
-\makeMPintoPDFobject=\count185
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count189
+\scratchdimen=\dimen174
+\scratchbox=\box39
+\nofMPsegments=\count190
+\nofMParguments=\count191
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen175
+\MPnumerator=\count193
+\makeMPintoPDFobject=\count194
+\everyMPtoPDFconversion=\toks36
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -889,7 +908,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 28.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 (01-Elementos-pre-textuais/03-Ficha-catalografica.texpdfTeX warning (ext4): des
 tination with the same identifier (name{page.1}) has been already used, duplica
 te ignored
@@ -979,7 +1007,10 @@ l.7
 ] [24
 
 ])
-(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [25]))
+(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc
+Underfull \vbox (badness 7944) has occurred while \output is active []
+
+ [25]))
 (02-Elementos-textuais/01-Introducao.tex [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1017,22 +1048,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [43])
 (03-Elementos-pos-textuais/01-Referencias.tex [44]
 No file TCC_main.bbl.
-) (03-Elementos-pos-textuais/02-Glossario.tex [45
+) (03-Elementos-pos-textuais/02-Glossario.tex)
+(03-Elementos-pos-textuais/03-Apendice.tex [45
 
 ] [46
 
-])
-(03-Elementos-pos-textuais/03-Apendice.tex [47] [48
-
-] [49])
-(03-Elementos-pos-textuais/04-Anexo.tex [50] [51
+] [47])
+(03-Elementos-pos-textuais/04-Anexo.tex [48] [49
 
 ])
-(03-Elementos-pos-textuais/05-Indice.tex [52])
+(03-Elementos-pos-textuais/05-Indice.tex [50])
 No file TCC_main.ind.
 
 AED: lastpage setting LastPage
-[53
+[51
 
 ]
 \tf@lof=\write5
@@ -1044,38 +1073,39 @@ AED: lastpage setting LastPage
 \tf@toc=\write7
 \openout7 = `TCC_main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (TCC_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 74.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 79.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 13672 strings out of 492942
- 207075 string characters out of 3135396
- 364177 words of memory out of 3000000
- 17083 multiletter control sequences out of 15000+200000
- 75329 words of font info for 52 fonts, out of 3000000 for 9000
+ 13299 strings out of 492942
+ 196964 string characters out of 3135396
+ 325930 words of memory out of 3000000
+ 16704 multiletter control sequences out of 15000+200000
+ 80604 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,42p,954b,510s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,12n,37p,954b,538s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
 nc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit
 .enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmsy10.pfb>
-Output written on TCC_main.pdf (55 pages, 355068 bytes).
+Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri
+12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.p
+fb>
+Output written on TCC_main.pdf (53 pages, 373113 bytes).
 PDF statistics:
- 559 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
- 389 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 548 PDF objects out of 1000 (max. 8388607)
+ 114 named destinations out of 1000 (max. 500000)
+ 381 words of extra memory for PDF output out of 10000 (max. 10000000)
 
