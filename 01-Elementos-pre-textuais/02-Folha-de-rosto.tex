@@ -9,38 +9,45 @@
 {\ABNTEXchapterfont\large\imprimirautor}
 \vspace*{\fill}\vspace*{\fill}
 
+
+
+
 	\vspace*{4 cm}
 	\begin{center}
 	\ABNTEXchapterfont\bfseries\Large\imprimirtitulo
 	\end{center}
 
 
-	\vspace*{\fill}
 
+	\vspace*{\fill}
 
 	\hspace{.45\textwidth}
     \begin{minipage}{.5\textwidth}
-        \imprimirpreambulo \par					%-> Para alterar, acesse "02-Customizacoes.sty"
+    
+    
+    
+% - INÍCIO DO TEXTO DO PREÂMBULO -----------------------------------------------------------------
+
+\imprimirtipotrabalho\ submetido ao curso
+ de \imprimircurso\ da \imprimirfaculdade\
+ do \imprimirinstituto\ da \imprimirinstituicao,
+ como requisito parcial para a obtenção do Grau 
+ de \imprimirgrauacademico\ em \imprimircurso.
+
+% - FIM DO TEXTO DO PREÂMBULO --------------------------------------------------------------------
         
         \vspace*{0.7 cm}
-        {\large Orientador: \imprimirorientador} \par \vspace*{0.5 cm}
-		{\large Coorientador: \imprimircoorientador}
-    \end{minipage}%
-    \vspace*{\fill}
+        {\large Orientador: Prof. Dr. \imprimirorientador} \par \vspace*{0.5 cm}
+		{\large Coorientador: Prof. Dr. \imprimircoorientador}
+    \end{minipage}
 
 
-%{\imprimirinstituicao
-%\vspace*{\fill}}
+% LOCAL E DATA -----------------------------------------------------------------------------------
 
-
-
-
-% LOCAL E DATA ---------------------------------------------------------------------
-
-\vspace*{\fill}												%-> Joga o texto para o final da página
+\vspace*{\fill}
 \large \textsc \imprimirlocal \\
 \large \textsc \imprimirdata
 
-% ----------------------------------------------------------------------------------
+% ------------------------------------------------------------------------------------------------
 
 \end{center}
