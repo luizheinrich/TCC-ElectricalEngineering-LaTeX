@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  30 JUL 2019 00:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  30 JUL 2019 01:02
 entering extended mode
 **./TCC_main.tex
 (TCC_main.tex
@@ -1007,10 +1007,7 @@ l.7
 ] [24
 
 ])
-(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc
-Underfull \vbox (badness 7944) has occurred while \output is active []
-
- [25]))
+(01-Elementos-pre-textuais/15-Sumario.tex (TCC_main.toc [25]))
 (02-Elementos-textuais/01-Introducao.tex [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1046,48 +1043,55 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [42
 
 ] [43])
-(03-Elementos-pos-textuais/01-Referencias.tex [44]
-No file TCC_main.bbl.
-) (03-Elementos-pos-textuais/02-Glossario.tex)
-(03-Elementos-pos-textuais/03-Apendice.tex [45
+(03-Elementos-pos-textuais/01-Referencias.tex [44] (TCC_main.bbl (TCC_main.brf)
+\tf@brf=\write5
+\openout5 = `TCC_main.brf'.
+
+bibitemlist
+)) (03-Elementos-pos-textuais/02-Glossario.tex [45
 
 ] [46
 
-] [47])
-(03-Elementos-pos-textuais/04-Anexo.tex [48] [49
+])
+(03-Elementos-pos-textuais/03-Apendice.tex [47] [48
+
+] [49])
+(03-Elementos-pos-textuais/04-Anexo.tex [50] [51
 
 ])
-(03-Elementos-pos-textuais/05-Indice.tex [50])
+(03-Elementos-pos-textuais/05-Indice.tex [52])
 No file TCC_main.ind.
 
 AED: lastpage setting LastPage
-[51
+[53
 
 ]
-\tf@lof=\write5
-\openout5 = `TCC_main.lof'.
+\tf@lof=\write6
+\openout6 = `TCC_main.lof'.
 
-\tf@lot=\write6
-\openout6 = `TCC_main.lot'.
+\tf@lot=\write7
+\openout7 = `TCC_main.lot'.
 
-\tf@toc=\write7
-\openout7 = `TCC_main.toc'.
+\tf@toc=\write8
+\openout8 = `TCC_main.toc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
  (TCC_main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package rerunfilecheck Info: File `TCC_main.brf' has not changed.
+(rerunfilecheck)             Checksum: F97C8080CF889AAC6AC93B1D3B58B81A;58.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 13299 strings out of 492942
- 196964 string characters out of 3135396
+ 13319 strings out of 492942
+ 197414 string characters out of 3135396
  325930 words of memory out of 3000000
- 16704 multiletter control sequences out of 15000+200000
+ 16714 multiletter control sequences out of 15000+200000
  80604 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,37p,954b,538s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,12n,37p,985b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
 nc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit
@@ -1103,9 +1107,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.p
 fb>
-Output written on TCC_main.pdf (53 pages, 373113 bytes).
+Output written on TCC_main.pdf (55 pages, 376607 bytes).
 PDF statistics:
- 548 PDF objects out of 1000 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
- 381 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 567 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
+ 389 words of extra memory for PDF output out of 10000 (max. 10000000)
 

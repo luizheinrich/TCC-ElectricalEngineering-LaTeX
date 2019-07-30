@@ -39,15 +39,17 @@
 \contentsline {section}{\numberline {5.1}Conclus\IeC {\~a}o}{43}{section.5.1}% 
 \contentsline {section}{\numberline {5.2}Trabalhos Atuais e Sugest\IeC {\~o}es Para Trabalhos Futuros}{43}{section.5.2}% 
 \vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{45}{section*.19}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Gloss\IeC {\'a}rio}}{45}{chapter.6}% 
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Gloss\IeC {\'a}rio}}{47}{chapter.6}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Ap\IeC {\^e}ndice}}{47}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Ap\IeC {\^e}ndice A}{47}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Ap\IeC {\^e}ndice B}{48}{section.7.2}% 
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Ap\IeC {\^e}ndice}}{49}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Ap\IeC {\^e}ndice A}{49}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Ap\IeC {\^e}ndice B}{50}{section.7.2}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Anexos}}{49}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Anexo A}{49}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Anexo B}{50}{section.8.2}% 
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Anexos}}{51}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Anexo A}{51}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Anexo B}{52}{section.8.2}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {\IeC {\'I}ndice}}{51}{chapter.9}% 
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {\IeC {\'I}ndice}}{53}{chapter.9}% 
