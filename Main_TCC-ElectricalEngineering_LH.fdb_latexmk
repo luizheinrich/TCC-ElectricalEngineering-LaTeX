@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex Main_TCC-ElectricalEngineering_LH"] 1614706283 "Main_TCC-ElectricalEngineering_LH.aux" "Main_TCC-ElectricalEngineering_LH.bbl" "Main_TCC-ElectricalEngineering_LH" 1614706768
+["bibtex Main_TCC-ElectricalEngineering_LH"] 1614706283 "Main_TCC-ElectricalEngineering_LH.aux" "Main_TCC-ElectricalEngineering_LH.bbl" "Main_TCC-ElectricalEngineering_LH" 1614715802
   "Bibliografia.bib" 1614703229 186 e03d26795a6502117f018498ecc8ef34 ""
   "C:/Program Files/MiKTeX 2.9/bibtex/bst/bibtex/ieeetr.bst" 1291864344 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "Main_TCC-ElectricalEngineering_LH.aux" 1614706287 12896 4c5343237e44be75d1d44e9d71be0d69 ""
   (generated)
   "Main_TCC-ElectricalEngineering_LH.blg"
   "Main_TCC-ElectricalEngineering_LH.bbl"
-["makeindex Main_TCC-ElectricalEngineering_LH.idx"] 1614703742 "Main_TCC-ElectricalEngineering_LH.idx" "Main_TCC-ElectricalEngineering_LH.ind" "Main_TCC-ElectricalEngineering_LH" 1614706768
+["makeindex Main_TCC-ElectricalEngineering_LH.idx"] 1614703742 "Main_TCC-ElectricalEngineering_LH.idx" "Main_TCC-ElectricalEngineering_LH.ind" "Main_TCC-ElectricalEngineering_LH" 1614715802
   "Main_TCC-ElectricalEngineering_LH.idx" 1614706285 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
-  "Main_TCC-ElectricalEngineering_LH.ind"
   "Main_TCC-ElectricalEngineering_LH.ilg"
-["pdflatex"] 1614706283 "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.tex" "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.pdf" "Main_TCC-ElectricalEngineering_LH" 1614706768
+  "Main_TCC-ElectricalEngineering_LH.ind"
+["pdflatex"] 1614706283 "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.tex" "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.pdf" "Main_TCC-ElectricalEngineering_LH" 1614715802
   "00-Setup/01-Setup.tex" 1614703228 1764 a2140f82fb82f45f6b22c6f58ce88a45 ""
   "00-Setup/02-Comandos.tex" 1614703228 4315 0cb92fbaf64f389d65e40036a4da5f9d ""
   "00-Setup/03-Informacoes.tex" 1614703228 3409 4683b86e16f2c1a9150d82295b2b0aa2 ""
@@ -196,13 +196,13 @@
   "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.aux" 1614706287 12896 4c5343237e44be75d1d44e9d71be0d69 ""
   "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.tex" 1614703732 4309 38c490bc88f0d357f041609b0f186a2f ""
   (generated)
+  "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.pdf"
+  "Main_TCC-ElectricalEngineering_LH.idx"
   "Main_TCC-ElectricalEngineering_LH.lof"
-  "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.log"
   "Main_TCC-ElectricalEngineering_LH.log"
+  "Main_TCC-ElectricalEngineering_LH.lot"
+  "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.log"
   "Main_TCC-ElectricalEngineering_LH.pdf"
   "Main_TCC-ElectricalEngineering_LH.brf"
-  "Main_TCC-ElectricalEngineering_LH.lot"
-  "c:/Users/luizh/Desktop/GitHub/TCC-ElectricalEngineering-LaTeX/Main_TCC-ElectricalEngineering_LH.pdf"
   "Main_TCC-ElectricalEngineering_LH.toc"
-  "Main_TCC-ElectricalEngineering_LH.idx"
   "Main_TCC-ElectricalEngineering_LH.aux"
