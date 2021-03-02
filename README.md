@@ -30,16 +30,16 @@ This method was applies to optimize a circulator based in 2-D Photonic Crystal i
 In this approach, the DNN demonstrated to be a powerful tool for the inverse design of nanophotonics devices discussed in this work.
 
 # Informations
-Title: Apredizado de Máquina na Otimização de Dispositivos Nanofotônicos
-Author: Luiz Henrique P. Assunção
-Orientador: Victor Dmitriev
-E-mail: luiz.heinrich@live.com
-Instituição: Universidade Federal do Pará - UFPA
-Instituto: Istituto de Tecnologia - ITEC
-Curso: Engenharia Elétrica
-Cidade: Belém
-Categoria: Monografia
-Tags: TCC, engenharia, elétrica
+- Title: Apredizado de Máquina na Otimização de Dispositivos Nanofotônicos
+- Author: Luiz Henrique P. Assunção
+- Orientador: Victor Dmitriev
+- E-mail: luiz.heinrich@live.com
+- Instituição: Universidade Federal do Pará - UFPA
+- Instituto: Istituto de Tecnologia - ITEC
+- Curso: Engenharia Elétrica
+- Cidade: Belém
+- Categoria: Monografia
+- Tags: TCC, engenharia, elétrica
 
 ## References
 <a id="1">[1]</a> 
