@@ -4,7 +4,7 @@ This work is a Undergraduate Final Project (TCC, in portuguese) in Electrical En
 This research work was reported in an article and submitted to a conference (**IEEE Congress on Evolutionary Computation 2021**). Some relevant information is described below.
 
 # Introduction
-Nanophotonics is a branch of optical engineering that studies the behavior of light on the nanometer scale. In this approach, so many devices can be built by modifying and controlling the optical properties of materials, and that opens up possibilities for designing devices with diverse functionality. For example, in communication systems, there are important passive components nonreciprocal and control, such as isolators, switches, circulators, and power dividers. One of the fundamental tasks that they operate in integrated circuits is in the protection of electromagnetic sources against possible reflections of the signal from different parts of the circuit, in this way the transmission of this signal occurs only to desired parts of the circuit. Some of these devices are discussed in \cite{dmitriev2012nonreciprocal,dmitriev2014magneto,dmitriev2019dynamically,dmitriev2013optical}.
+Nanophotonics is a branch of optical engineering that studies the behavior of light on the nanometer scale. In this approach, so many devices can be built by modifying and controlling the optical properties of materials, and that opens up possibilities for designing devices with diverse functionality. For example, in communication systems, there are important passive components nonreciprocal and control, such as isolators, switches, circulators, and power dividers. One of the fundamental tasks that they operate in integrated circuits is in the protection of electromagnetic sources against possible reflections of the signal from different parts of the circuit, in this way the transmission of this signal occurs only to desired parts of the circuit. Some of these devices are discussed in [[2]](#2) \cite{dmitriev2014magneto,dmitriev2019dynamically,dmitriev2013optical}.
 
 Design these devices through computer simulations is a task that involves a high computational cost as their complexity increases. So many possibilities of device geometry need to be done experimentally until the geometry model that offers the best performance for the device is arrived at.
 
@@ -43,7 +43,18 @@ In this approach, the DNN demonstrated to be a powerful tool for the inverse des
 
 ## References
 <a id="1">[1]</a> 
-Dmitriev, Victor and Martins, Leno and Portela, Gianni and Assunção, Luiz (2021). 
+Dmitriev, Victor and Martins, Leno and Portela, Gianni and Assunção, Luiz. 
 Quadrupole resonator mode versus dipole one in photonic crystal ferrite circulators. 
-Photonics and Nanostructures (Submitted).
+Photonics and Nanostructures.
+2021.
+(Submitted).
 
+<a id="2">[2]</a> 
+Dmitriev, Victor and Kawakatsu, Marcelo N. 
+Nonreciprocal optical divider based on two-dimensional photonic crystal and magneto-optical cavity. 
+Photonics and Nanostructures.
+vol. 51.
+no. 24.
+pp. 5917-5920.
+Optical Society of America.
+2021.
