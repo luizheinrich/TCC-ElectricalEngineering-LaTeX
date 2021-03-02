@@ -4,11 +4,11 @@ This work is a Undergraduate Final Project (TCC, in portuguese) in Electrical En
 This research work was reported in an article and submitted to a conference (**IEEE Congress on Evolutionary Computation 2021**). Some relevant information is described below.
 
 # Introduction
-Nanophotonics is a branch of optical engineering that studies the behavior of light on the nanometer scale. In this approach, so many devices can be built by modifying and controlling the optical properties of materials, and that opens up possibilities for designing devices with diverse functionality. For example, in communication systems, there are important passive components nonreciprocal and control, such as isolators, switches, circulators, and power dividers. One of the fundamental tasks that they operate in integrated circuits is in the protection of electromagnetic sources against possible reflections of the signal from different parts of the circuit, in this way the transmission of this signal occurs only to desired parts of the circuit. Some of these devices are discussed in [[2]](#2) \cite{dmitriev2014magneto,dmitriev2019dynamically,dmitriev2013optical}.
+Nanophotonics is a branch of optical engineering that studies the behavior of light on the nanometer scale. In this approach, so many devices can be built by modifying and controlling the optical properties of materials, and that opens up possibilities for designing devices with diverse functionality. For example, in communication systems, there are important passive components nonreciprocal and control, such as isolators, switches, circulators, and power dividers. One of the fundamental tasks that they operate in integrated circuits is in the protection of electromagnetic sources against possible reflections of the signal from different parts of the circuit, in this way the transmission of this signal occurs only to desired parts of the circuit. Some of these devices are discussed in [[1]](#1) [[2]](#2) [[3]](#3) [[4]](#4).
 
 Design these devices through computer simulations is a task that involves a high computational cost as their complexity increases. So many possibilities of device geometry need to be done experimentally until the geometry model that offers the best performance for the device is arrived at.
 
-On the other hand, artificial intelligence has grown considerably in recent years. In large part, due to the great advance in deep learning (DL), which has had a powerful impact in the technology field, such as speech recognition, computer vision, autonomous car, and others. Deep learning is a machine learning (ML) technics that is inspired by the architecture of the human brain, which allows the machine to learn. It uses multiple layers of non-linear transformation to model high-level abstraction in data to obtain a learning model \cite{geron2019hands}.
+On the other hand, artificial intelligence has grown considerably in recent years. In large part, due to the great advance in deep learning (DL), which has had a powerful impact in the technology field, such as speech recognition, computer vision, autonomous car, and others. Deep learning is a machine learning (ML) technics that is inspired by the architecture of the human brain, which allows the machine to learn. It uses multiple layers of non-linear transformation to model high-level abstraction in data to obtain a learning model [[5]](#5).
 
 In this context of optimization, a deep neural network (DNN) can learn how the geometry of the device is related to its frequency response. That fact is important in the optimization process, as it allows the neural network to indicate which is the most optimize geometry configuration for the device. This entire procedure is the scope of this paper.
 
@@ -25,7 +25,7 @@ Here we present an optimization procedure using Deep Neural Networks, a subfield
 
 Our optimization procedure involves several different services and we have developed a script to automatizate the communication between them. This allowed the process to happen faster and automated.
 
-This method was applies to optimize a circulator based in 2-D Photonic Crystal in [[1]](#1), in which has two resonators with dipole and qudrupole resonances. In both circulators there are nine curves in frequency response that need to be optimizade by geometry modification. The variables involved in the problem are so many that human precision can be ineffective. 
+This method was applies to optimize a circulator based in 2-D Photonic Crystal in [[6]](#6), in which has two resonators with dipole and qudrupole resonances. In both circulators there are nine curves in frequency response that need to be optimizade by geometry modification. The variables involved in the problem are so many that human precision can be ineffective. 
 
 In this approach, the DNN demonstrated to be a powerful tool for the inverse design of nanophotonics devices discussed in this work.
 
@@ -43,18 +43,51 @@ In this approach, the DNN demonstrated to be a powerful tool for the inverse des
 
 ## References
 <a id="1">[1]</a> 
-Dmitriev, Victor and Martins, Leno and Portela, Gianni and Assunção, Luiz. 
-Quadrupole resonator mode versus dipole one in photonic crystal ferrite circulators. 
-Photonics and Nanostructures.
-2021.
-(Submitted).
-
-<a id="2">[2]</a> 
 Dmitriev, Victor and Kawakatsu, Marcelo N. 
-Nonreciprocal optical divider based on two-dimensional photonic crystal and magneto-optical cavity. 
-Photonics and Nanostructures.
+"Nonreciprocal optical divider based on two-dimensional photonic crystal and magneto-optical cavity". 
+Optical Society of America.
 vol. 51.
 no. 24.
 pp. 5917-5920.
-Optical Society of America.
+2012.
+
+<a id="2">[2]</a> 
+Dmitriev, Victor and Portela, Gianni and Batista, Raphael.
+"Magneto-optical resonator switches in two-dimensional photonic crystals: geometry, symmetry, scattering matrices, and two examples". 
+Applied Optics.
+vol. 53.
+no. 20.
+pp. 4460-4467.
+2014.
+
+<a id="3">[3]</a> 
+Dmitriev, Victor and Portela, Gianni and Batista, Raphael.
+"Dynamically controllable graphene terahertz splitters with nonreciprocal properties". 
+Applied Optics.
+vol. 58.
+no. 24.
+pp. 6513-6518.
+2019.
+
+<a id="4">[4]</a> 
+Dmitriev, Victor and Portela, Gianni.
+"Optical component: nonreciprocal three-way divider based on magneto-optical resonator". 
+Applied Optics.
+vol. 52.
+no. 27.
+pp. 6657-6662.
+2013.
+
+<a id="5">[5]</a> 
+G{\'e}ron, Aur{\'e}lien.
+"Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems".
+O'Reilly Media.
+ed. 2.
+2019.
+
+<a id="6">[6]</a> 
+Dmitriev, Victor and Martins, Leno and Portela, Gianni and Assunção, Luiz. 
+"Quadrupole resonator mode versus dipole one in photonic crystal ferrite circulators". 
+Photonics and Nanostructures.
 2021.
+(Submitted).
