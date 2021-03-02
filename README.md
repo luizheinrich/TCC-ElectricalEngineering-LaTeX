@@ -43,6 +43,7 @@ In this approach, the DNN demonstrated to be a powerful tool for the inverse des
 
 ## References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
+Dmitriev, Victor and Martins, Leno and Portela, Gianni and Assunção, Luiz (2021). 
+Quadrupole resonator mode versus dipole one in photonic crystal ferrite circulators. 
+Photonics and Nanostructures (Submitted).
+
