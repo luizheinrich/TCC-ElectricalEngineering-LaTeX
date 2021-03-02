@@ -1,0 +1,353 @@
+PWD c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX
+INPUT C:\Users\luizh\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.tex
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\abntex2\abntex2.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\abntex2\abntex2.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\memoir\memoir.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\memoir\memoir.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\memoir\mem12.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\memoir\mem12.clo
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\delarray.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\delarray.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\textcase\textcase.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\textcase\textcase.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\french.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\german.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\french.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\french.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\german.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\german.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\germanb.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cmap\cmap.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cmap\cmap.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cmap\t1.cmap
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.pdf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cmap\t1.cmap
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\units\units.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\units\units.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\units\nicefrac.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\units\nicefrac.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\backref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\backref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\bold-extra\bold-extra.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\bold-extra\bold-extra.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\00-Setup\01-Setup.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\00-Setup\01-Setup.tex
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.idx
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\00-Setup\02-Comandos.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\00-Setup\02-Comandos.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\00-Setup\03-Informacoes.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\00-Setup\03-Informacoes.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.aux
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.aux
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\01-Capa.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\01-Capa.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmcsc10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\luizh\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\02-Folha-de-rosto.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\02-Folha-de-rosto.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cmap\ot1.cmap
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cmap\ot1.cmap
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mmap\oml.cmap
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mmap\oml.cmap
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mmap\oms.cmap
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mmap\oms.cmap
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mmap\omx.cmap
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mmap\omx.cmap
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\03-Ficha-catalografica.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\03-Ficha-catalografica.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\04-Folha-de-aprovacao.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\04-Folha-de-aprovacao.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\05-Dedicatoria.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\05-Dedicatoria.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss17.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri12.tfm
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\06-Agradecimentos.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\06-Agradecimentos.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\07-Epigrafe.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\07-Epigrafe.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\08-Resumo.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\08-Resumo.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\09-Abstract.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\09-Abstract.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\10-Zusammenfassung.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\10-Zusammenfassung.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\11-Lista-de-ilustracoes.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\11-Lista-de-ilustracoes.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.lof
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.lof
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\12-Lista-de-tabelas.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\12-Lista-de-tabelas.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.lot
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.lot
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\13-Lista-de-abreviaturas.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\13-Lista-de-abreviaturas.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\14-Lista-de-simbolos.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\14-Lista-de-simbolos.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\15-Sumario.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\01-Elementos-pre-textuais\15-Sumario.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.toc
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.toc
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\01-Introducao.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\01-Introducao.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss17.tfm
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT.eps
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT.eps
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT.eps
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT-eps-converted-to.pdf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT-eps-converted-to.pdf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT.eps
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT-eps-converted-to.pdf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT-eps-converted-to.pdf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT-eps-converted-to.pdf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\04-Figuras\Template-figura-A4-ABNT-eps-converted-to.pdf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\02-Revisao-bibliografica.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\02-Revisao-bibliografica.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\03-Desenvolvimento.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\03-Desenvolvimento.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\04-Resultados.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\04-Resultados.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\05-Consideracoes-finais.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\02-Elementos-textuais\05-Consideracoes-finais.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\01-Referencias.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\01-Referencias.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.bbl
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.bbl
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.brf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.brf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.brf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.brf
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.brf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\02-Glossario.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\02-Glossario.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\03-Apendice.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\03-Apendice.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\04-Anexo.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\04-Anexo.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\05-Indice.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\03-Elementos-pos-textuais\05-Indice.tex
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.ind
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.ind
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.lof
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.lot
+OUTPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.toc
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.aux
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.brf
+INPUT c:\Users\luizh\Desktop\GitHub\TCC-ElectricalEngineering-LaTeX\Main_TCC-ElectricalEngineering_LH.brf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmmi12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmmi12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmmi8.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmmi8.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmri12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmri12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
