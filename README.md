@@ -1,7 +1,9 @@
 # Undergraduate Final Project
 This work is a Undergraduate Final Project (TCC, in portuguese) in Electrical Engineering. In this Final Project is discussed the optimization process of nanophotonics devices using Deep Neural Networks.
 
-This research work was reported in an article and submitted to a conference (**IEEE Congress on Evolutionary Computation 2021**). Some relevant information is described below.
+- This research work was reported in an article and submitted to a conference (**IEEE Congress on Evolutionary Computation 2021**). Some relevant information is described below.
+
+- Experimental content such as the Deep Neural Network and the entire optimization process can be accessed in the repository https://github.com/luizheinrich/DeepLearning-PhC
 
 # Introduction
 Nanophotonics is a branch of optical engineering that studies the behavior of light on the nanometer scale. In this approach, so many devices can be built by modifying and controlling the optical properties of materials, and that opens up possibilities for designing devices with diverse functionality. For example, in communication systems, there are important passive components nonreciprocal and control, such as isolators, switches, circulators, and power dividers. One of the fundamental tasks that they operate in integrated circuits is in the protection of electromagnetic sources against possible reflections of the signal from different parts of the circuit, in this way the transmission of this signal occurs only to desired parts of the circuit. Some of these devices are discussed in [[1]](#1) [[2]](#2) [[3]](#3) [[4]](#4).
