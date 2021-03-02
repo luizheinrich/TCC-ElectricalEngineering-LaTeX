@@ -79,7 +79,7 @@ pp. 6657-6662.
 2013.
 
 <a id="5">[5]</a> 
-G{\'e}ron, Aur{\'e}lien.
+Géron, Aurélien.
 "Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems".
 O'Reilly Media.
 ed. 2.
