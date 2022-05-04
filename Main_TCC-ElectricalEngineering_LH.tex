@@ -24,7 +24,12 @@
 \usepackage{eso-pic}										%-> 
 %\usepackage[alf]{abntex2cite}								%-> Citação ABNT - Não está sendo usada
 \usepackage{cite}											%-> A citação usada é o padrão IEEE
-
+%\usepackage[pagewise]{lineno}                               %-> Número de linha na margem interna
+\usepackage{textcomp}
+\usepackage{url}
+\usepackage{pdfpages}
+\usepackage{multirow}
+%\usepackage[symbols]{glossaries}
 
 
 \input{00-Setup/01-Setup}									%-> Setup
@@ -39,14 +44,19 @@
 \pretextual
 \input{01-Elementos-pre-textuais/01-Capa}					%->	Capa
 \input{01-Elementos-pre-textuais/02-Folha-de-rosto}			%->	Folha de Rosto
-\input{01-Elementos-pre-textuais/03-Ficha-catalografica}	%->	Ficha Catalográfica
-\input{01-Elementos-pre-textuais/04-Folha-de-aprovacao}		%-> Folha de Aprovação
+%\input{01-Elementos-pre-textuais/03-Ficha-catalografica}	%->	Ficha Catalográfica
+\includepdf[pages=-,pagecommand=\section*{}]{00-Documentos/FichaCatalograficaFICAT.pdf}
+%\input{01-Elementos-pre-textuais/04-Folha-de-aprovacao}		%-> Folha de Aprovação
+\includepdf[pages=-,pagecommand=\section*{}]{00-Documentos/FolhaDeAprovacao-EngEletrica-LuizHenriqueAssuncao-TCC.pdf}
 \input{01-Elementos-pre-textuais/05-Dedicatoria}			%-> Dedicatória
 \input{01-Elementos-pre-textuais/06-Agradecimentos}			%-> Agradecimentos
 \input{01-Elementos-pre-textuais/07-Epigrafe}				%-> Epígrafe
+
+%\linenumbers                                                %-> Número de linha na margem interna
+
 \input{01-Elementos-pre-textuais/08-Resumo}					%-> Resumo				- Português
 \input{01-Elementos-pre-textuais/09-Abstract}				%-> Abstract			- Inglês
-\input{01-Elementos-pre-textuais/10-Zusammenfassung}		%-> Zuzammenfassung		- Alemão
+%\input{01-Elementos-pre-textuais/10-Zusammenfassung}		%-> Zuzammenfassung		- Alemão
 \input{01-Elementos-pre-textuais/11-Lista-de-ilustracoes}	%-> Lista de Ilustrações
 \input{01-Elementos-pre-textuais/12-Lista-de-tabelas}		%-> Lista de Tabelas
 \input{01-Elementos-pre-textuais/13-Lista-de-abreviaturas}	%-> Lista de Abreviaturas e Siglas
@@ -68,10 +78,10 @@
 
 \postextual
 \input{03-Elementos-pos-textuais/01-Referencias}			%-> Referências
-\input{03-Elementos-pos-textuais/02-Glossario}				%-> Glossário
+%\input{03-Elementos-pos-textuais/02-Glossario}				%-> Glossário
 \input{03-Elementos-pos-textuais/03-Apendice}				%-> Apêndice
-\input{03-Elementos-pos-textuais/04-Anexo}					%-> Anexo
-\input{03-Elementos-pos-textuais/05-Indice}					%-> Índice
+%\input{03-Elementos-pos-textuais/04-Anexo}					%-> Anexo
+%\input{03-Elementos-pos-textuais/05-Indice}					%-> Índice
 
 
 %=================================================================================================
