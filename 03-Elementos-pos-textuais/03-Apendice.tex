@@ -1,11 +1,155 @@
-\chapter{Apêndice}
+\chapter{Apêndices}      \label{Apendice}
 
-\section{Apêndice A}
+Além da aplicação nos dispositivos baseados em cristais fotônicos, também foi realizado o procedimento de otimização em dois divisores de potência baseados em grafeno. Na Seção \ref{Aplicacao Divisor}, é mostrada a metodologia e na Seção \ref{Resultado DivPot}, são mostrados os resultados.
 
-vgvgvcfgc
+\section{APÊNDICE A -- APLICAÇÃO EM DIVISOR DE POTÊNCIA}      \label{Aplicacao Divisor}
+
+Os divisores de potência por três (1x3) baseado em grafeno discutidos em \cite{Dmitriev2021Nonreciprocal} foram submetidos ao procedimento deste trabalho. Como mostrado na Fig. \ref{fig: GrapheneDividers}, o divisor $\mathcal{T}\sigma_{1}$ tem simetria vertical e o divisor $\mathcal{T}\sigma_{2}$, simetria horizontal.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics{04-Figuras/GrapheneDividers.eps}
+    \caption{Divisores de potência suas respectivas distribuições do campo eletromagnético para excitação na porta 1. a) Divisor $\mathcal{T}\sigma_{1}$. b) Divisor $\mathcal{T}\sigma_{2}$.} \par
+    Fonte: Francisco Nobre (2021) (adaptado pelo Autor) \cite{Nobre2021Graphene}.
+    \label{fig: GrapheneDividers}
+\end{figure}
+
+A geometria de ambos foi parametrizada de modo a respeitar a simetria particular de cada dispositivo. Algumas dessas variáveis são $w_{1}$ e $w_{2}$ (expessura dos guias de onda), $R$ (raio do ressonador), $\otimes B_{0}$ (campo magnético) e $g$ (gap dos guias de onda).
+
+
+\begin{figure}[H]
+	\centering\includegraphics{04-Figuras/VariaveisGeometriaVertical.eps}
+	\caption{Variáveis geométricas do divisor vertical $\mathcal{T}\sigma_{1}$.}
+    Fonte: do Autor.
+	\label{fig: VariaveisGeometriaVertical}
+\end{figure}
+
+No total, tanto para $\mathcal{T}\sigma_{1}$ (ver Fig. \ref{fig: VariaveisGeometriaVertical}) quanto para $\mathcal{T}\sigma_{2}$ (ver Fig. \ref{fig: VariaveisGeometriaHorizontal}), foram avaliados $19$ parâmetros geométricos. Assim, o tensor $[Y]$ terá dimensão $i \times 19$ para ambos dispositivos.
+
+\begin{figure}[H]
+	\centering\includegraphics{04-Figuras/VariaveisGeometriaHorizontal.eps}
+	\caption{Variáveis geométricas do divisor horizontal $\mathcal{T}\sigma_{2}$.}
+    Fonte: do Autor.
+	\label{fig: VariaveisGeometriaHorizontal}
+\end{figure}
+
+A resposta em frequência é avaliada considerando o desempenho do sinal da \textit{porta 1} para todas as outras (ver \textit{distribuição do campo eletromagnético} na Fig. \ref{fig: GrapheneDividers}). Portanto, $6$ curvas são avaliadas: $S_{11}$, $S_{21}$, $S_{31}$, $S_{41}$, $S_{51}$ e $S_{61}$. Para o divisor $\mathcal{T}\sigma_{1}$, as curvas $S_{21}$, $S_{41}$, $S_{51}$ devem ser maximizadas, pois o sinal deve sair da \textit{porta 1} e se dividir para essas portas, enquanto que as curvas $S_{11}$, $S_{31}$, $S_{61}$ devem ser minimizadas (já que o sinal não deve ser propagado para elas). O mesmo raciocínio se extende para o $\mathcal{T}\sigma_{2}$, sendo as curvas $S_{21}$, $S_{41}$ e $S_{51}$ maximizadas (sinal propagado) e as curvas $S_{11}$, $S_{31}$, $S_{61}$ minimizadas (sinal isolado).
+
+
+Tanto para o divisor $\mathcal{T}\sigma_{1}$ quanto para o divisor $\mathcal{T}\sigma_{2}$, cada curva da resposta em frequência está discretizada em 51 pontos, portanto, $51 \times 6 = 306$. Isso indica que os tensores $[X]$ e $[Z]$ terão dimensão $i \times 306$ e $1 \times 306$, respectivamente. Desta forma, a rede neural profunda terá $306$ neurônios na camada de entrada e $19$ neurônios na camada de saída para os dois divisores $\mathcal{T}\sigma_{1}$ e $\mathcal{T}\sigma_{2}$.
+
+
+\subsection{Arquitetura de Rede}
+
+Definido a quantidade de neurônios nas camadas de entrada e saída da rede neural profunda, o próximo passo foi definir a arquitetura de rede. A escolha igual das mesmas quantidades de variáveis de geometria para ambos divisores foi intencional, pois facilita o uso de uma arquitetura para trabalhar ambos dispositivos. Foram desenvolvidas 6 arquiteturas de redes com diversas configurações de neurônios e camadas.
+
+\begin{itemize}
+    \item Rede 1: $306 - 150 - 19$
+    \item Rede 2: $306 - 200 - 100 - 19$
+    \item Rede 3: $306 - 150 - 100 - 50 - 19$
+    \item Rede 4: $(51) \parallel \times 6 \rightarrow 306 - 150 - 100 - 50 - 19$
+    \item Rede 5: $(51 - 51 - 51) \parallel \times 6 \rightarrow 306 - 150 - 100 - 50 - 19$
+    \item Rede 6: $(51 - 51 - 51 - 51 - 51 - 51) \parallel \times 6 \rightarrow 306 - 150 - 100 - 50 - 19$
+\end{itemize}
+
+Após a geração do banco de dados inicial $i_{0}$, foi realizado testes de performance das 6 arquiteturas de redes. Primeiramente, foi avaliado o desempenho das três primeiras redes. Foi observado que a \textit{rede 3} obteve o melhor desempenho (isto é, menor erro). Posteriormente, foram geradas mais três arquiteturas de redes (\textit{rede 4}, \textit{rede 5} e \textit{rede 6}), as quais são variações da \textit{rede 3} contendo seis redes de pré-processamento paralelo, variando em $1$, $3$ e $6$ camadas, as quais são conectadas à rede sequencial (\textit{rede 3}) através de uma camada de concatenação\footnote{O símbolo $\rightarrow$ é usado para indicar a concatenação.} (essa arquitetura foi previamente discutida na Fig. \ref{fig: StepNetwork-b}).
+
+\input{05-Tabelas/Tabela_ArquiteturaRedeDivisor.tex}
+
+Como pode ser conferido na Tabela \ref{tab: ArquiteturaRedeDivisor}, arquitetura de rede 5 foi escolhida para ambos divisores, pois obteve o menor erro (MSE) quando treinada com o banco de dados inicial $i_{0}$.
+
+
+\subsection{Operação Ideal}
+
+A Fig. \ref{fig: DividerTargetFrequencyResponse} mostra a resposta em frequência ideal designada para ambos divisores, a qual será o objetivo da rede neural. Todas as curvas estão em ressonância na frequência central de operação dos dispositivos. 
+
+\begin{figure}[H]
+	\centering\includegraphics{04-Figuras/DividerTargetFrequencyResponse.eps}
+	\caption{Resposta em frequência desejada.}
+    Fonte: do Autor.
+	\label{fig: DividerTargetFrequencyResponse}
+\end{figure}
+
+
+
+\subsection{Resultados}      \label{Resultado DivPot}
+
+O objetivo da rede neural profunda foi otimizar e realizar a otimização da geometria do divisor vertical a partir da \textit{resposta em frequência desejada} mostrada na Fig. \ref{fig: DividerTargetFrequencyResponse}. A Fig. \ref{fig: ResultadoVerticalLoop131} mostra a resposta em frequência do divisor $\mathcal{T}\sigma_{1}$ após esse processo de otimização.
+
+\begin{figure}[H]
+	\centering\includegraphics{04-Figuras/ResultadoVerticalLoop131.eps}
+	\caption{Resultado da resposta em frequência do divisor vertical $\mathcal{T}\sigma_{1}$.}
+    Fonte: Francisco Nobre (2021) (adaptado pelo Autor) \cite{Nobre2021Graphene}.
+	\label{fig: ResultadoVerticalLoop131}
+\end{figure}
+
+Nota-se que a ressonância ocorre na frequência central do divisor $\mathcal{T}\sigma_{1}$, entretanto, um valor ótimo das curvas de isolamento seria abaixo dos $-20dB$, requisito que ainda não foi respeitado pelas curvas $S_{31}$ e $S_{61}$.
+
+Os parâmetros encontrados pela rede neural (\textit{Valor Otimizado}) para o divisor vertical $\mathcal{T}\sigma_{1}$ podem ser comparados com a situação do dispositivo antes da otimização (\textit{Valor Original}), como mostrado na Tabela \ref{tab: Vertical_Loop_131}.
+
+\input{05-Tabelas/Tabela_ParametrosVertical.tex}
+
+A resposta em frequência do divisor de simetria horizontal $\mathcal{T}\sigma_{2}$ após o procedimento de otimização está ilustrada na Fig. \ref{fig: ResultadoHorizontalLoop267}.
+
+\begin{figure}[H]
+	\centering\includegraphics{04-Figuras/ResultadoHorizontalLoop267.eps}
+	\caption{Resultado da resposta em frequência do divisor horizontal $\mathcal{T}\sigma_{2}$.}
+    Fonte: Francisco Nobre (2021) (adaptado pelo Autor) \cite{Nobre2021Graphene}.
+	\label{fig: ResultadoHorizontalLoop267}
+\end{figure}
+
+Nota-se que o procedimento ainda não foi satisfatório, pois as curvas não estão em ressonância na frequência central de operação do divisor $\mathcal{T}\sigma_{2}$. No total, foram realizados $215$ \textit{Loops} para o divisor $\mathcal{T}\sigma_{1}$ e $634$ \textit{Loops} para o divisor $\mathcal{T}\sigma_{2}$, como mostrado na Tabela \ref{tab: MSEDivisor}.
+
+\input{05-Tabelas/Tabela_MSEDivisor.tex}
+
 
 \newpage
+\section{APÊNDICE B -- CRISTAL FOTÔNICO: PARÂMETROS GERAIS}      \label{PhC}
 
-\section{Apêndice B}
+Esta Seção do Apêndice detalha a geometria dos dispositivos baseados em cristal fotônico e as características de projeto da rede neural profunda implementada.
 
- vghvygvgy
+\subsection{Características da Geometria}
+
+A estrutura geométrica dos dispositivos baseados em cristais fotônicos está apresentada na Fig. \ref{fig: PhCParametrization}. Ela é composta por cilindros em uma estrutura periódica, cuja a constante de rede $a$ é de 0,12 mm. Cada cilindro tem o raio de $0,2a$ mm e posição (centro do cilindro em coordenadas cartesianas $(x, y)$) em valores discretos da constante de rede.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics{04-Figuras/PhCParametrization.eps}
+    \caption{Parametrização da geometria base do cristal fotônico.} \par
+    Fonte: do Autor.
+    \label{fig: PhCParametrization}
+\end{figure}
+
+A ferrite, localizada no centro da \textit{junção-T}, tem raio específico para cada dispositivo. Para o dispositivo de ressonância dipolo, o raio da ferrite é de $0,2a$ mm, enquanto que para o dispositivo de ressonância quadrupolo, o raio da ferrite é de $0,4a$ mm. A ferrite posta na cavidade ressonante é magnetizada por um campo magnético externo e irá apresentar \textit{dois} ou \textit{quatro} polos, a depender do raio que a ferrite apresentar.
+
+A Tabela \ref{tab: DipoloOtimizado} mostra os valores de geometria do dispositivo dipolo em milímetros. O \textit{valor original} refere-se à geometria base e o \textit{valor otimizado} à geometria otimizada, como mostrado na Fig. \ref{fig: PhCGeometryOptimization}.a) e \ref{fig: PhCGeometryOptimization}.b), respectivamente.
+
+\input{05-Tabelas/Tabela_DipoloOtimizado.tex}
+
+Na Tabela \ref{tab: QuadrupoloOtimizado}, o \textit{valor original} também refere-se à geometria base e o \textit{valor otimizado} à geometria otimizada para o circulador quadrupolo, como mostrado na Fig. \ref{fig: PhCGeometryOptimization}.a) e \ref{fig: PhCGeometryOptimization}.c), respectivamente.
+
+\input{05-Tabelas/Tabela_QuadrupoloOtimizado.tex}
+
+
+
+
+\subsection{Hiperparâmetros da Rede Neural}
+
+A rede neural profunda usada para ambos dispositivos baseados em cristais fotônicos tem os seus hiperparâmetros mostrados na Tabela \ref{tab: Hiperparametros}.
+
+\input{05-Tabelas/Tabela_HiperparametrosANN.tex}
+
+Assim, $\eta$ refere-se a taxa de aprendizazem do otimizador ADAM, enquanto que $\alpha$ refere-se ao coeficiente de inclinação negativo da função de ativação LeakyReLU.
+
+A Tabela \ref{tab: DivBancoDeDados} mostra a divisão percentual do danco de dados em \textit{treino}, \textit{validação} e \textit{teste}.
+
+\input{05-Tabelas/Tabela_DivBancoDeDados.tex}
+
+
+\subsection{Configurações da Máquina}
+
+As configurações do computador onde todo o procedimento de otimização foi rodado, estão mostradas na Tabela \ref{tab: ConfigPC}.
+
+\input{05-Tabelas/Tabela_ConfiguracoesMaquina.tex}
+
+Desta maneira, o \textit{Tempo 1} refere-se ao tempo demandado para o computador especificado rodar uma simulação do COMSOL, enquanto que o \textit{Tempo 2} refere-se ao tempo necessário para treinar a rede neural. O \textit{Tempo 3} foi o tempo total gasto para todo o processo de otimização e modelagem inversa apresentado neste trabalho. O dispositivo circulador de ressonância dipolo demandou 3 semanas, enquanto que o dispositivo circulador de ressonância quadrupolo demandou 5 semanas. É válido ressaltar que o \textit{Tempo 3} não ocorreu de forma initerrupta.
