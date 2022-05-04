@@ -1,13 +1,54 @@
 \chapter{Considerações Finais}      \label{Consideracoes Finais}
 
+\section{Discussão}
+
+No âmbito da modelagem inversa, não é sempre garantido que haverá uma solução para o problema, isto é, que tenha de fato uma resposta em frequência com parâmetros de operação desejados. O problema associado é o da \textit{não-unicidade} da resposta eletromagnética de muitos dispositivos. Nesse caso, duas ou mais configurações de geometria podem ocasionar na mesma resposta de campo (ou resposta em frequência). Esse problema, inclusive, foi discutido em \cite{liu2018training} e previamente comentado no Capítulo \ref{Introducao} deste trabalho. Deve-se pontuar que, apesar dessa temática não ser abordada na metodologia deste trabalho, é um problema que deve-se considerar para trabalhos futuros.
+
+Outra discussão, é o fato de o banco de dados não ser estático, isto é, há um incremento no número de instâncias à medida que o algorítimo é executado. Por este motivo foi feito o procedimento de gerar um \textit{banco de dados inicial} para posteriormente escolher a arquitetura de rede e, finalmente, continuar com o trabalho.
+
+Durante o Capítulo \ref{Metodo Proposto}, foi mencionado que a resposta em frequência foi discretizada em 51 pontos. Essa escolha se deu por conta da quantidade de informações que serão repassadas à rede. Quanto mais pontos as curvas forem discretizadas, maior será a dimensão da camada de entrada, mais dados serão processados, o que irá requerer mais tempo. Com menos pontos de discretização, certamente será um processamento mais rápido, entretanto, poderá faltar informações valiosas para o aprendizado, tornando o modelo menos preciso. Desta forma, 51 foi uma escolha considerada ótima entre essas questões discutidas.
+
+A escolha de uma camada de \textit{pré-processamento} na arquitetura da rede neural profunda foi feita com base no trabalho discutido em \cite{malkiel2017deep}. Quando implementada, foi verificado um melhoramento na precisão da rede neural profunda. A camada de pré-processamento irá tratar cada curva da resposta em frequência de forma independente e paralela (é como se cada curva tivesse a sua própria rede neural), para então serem alimentadas na rede sequencial.
+
+Os resultados de ambos circuladores baseado em cristal fotônico foi alcançado em até 3 semanas após a implementação do método de otimização e modelagem inversa abordado no presente trabalho. Em contrapartida, em métodos convencionais, esse tempo normalmente é de alguns meses, podendo chegar a alguns anos.
+
+\newpage
 \section{Conclusão}
 
-Neste trabalho de pesquisa, foi proposto um procedimento de otimização de dispositivos nanofotônicos com o uso algoritmos em \textit{Machine Learning}.
+Neste \imprimirtipotrabalho, foi apresentado um procedimento de otimização e modelagem inversa de dispositivos nanofotônicos com o uso de algoritmos em \textit{machine learning}. Os dispositivos nanofotônicos de hoje dependem cada vez mais de nanoestruturas complexas para realizar funcionalidades sofisticadas. À medida que essa complexidade estrutural aumenta, os processos de projeto se tornam mais desafiadores.
+
+Para ambos os dispositivos baseados em Cristal Fotônico, os resultados foram muito promissores. Conforme relatado no presente trabalho, a caracterização da resposta em frequência de ambos dispositivos ficaram próximas da resposta em frequência desejada, respeitando características de projeto cruciais, como o alinhamento das curvas dos parâmetros-S em ressonância na frequência central de operação dos dispositivos. Para os dispositivos divisores de potência baseados em grafeno (ver Apêndice \ref{Apendice}), os resultados ainda não foram promissores e, certamente, requerem uma nova abordagem metodológica (como as demais abordagens de alto DOF discutidas na Seção \ref{Trabalhos Relacionados} do Capítulo \ref{Introducao}). Também é importante considerar que existe a possibilidade, seja pela própria característica eletromagnética do dispositivo, de não existir uma resposta em frequência com características ótimas de operação e, portanto, não existir uma convergência para a modelagem inversa da estrutura analisada.
+
+De uma forma geral, o método desenvolvido se apresentou promissor para a caracterização de nanoestruturas, pois as redes neurais profundas conseguem relacionar muito bem problemas multivariáveis e não-lineares, o que na condição da análise humana através de um processo intuitivo e empírico, torna-se uma tarefa bastante demorada e desafiadora.
+
+O presente trabalho teve como principal objetivo demonstrar ao leitor quais passos e análises seguir para a modelagem inversa de estruturas. Ressalta-se, portanto, que essa metodologia pode ser aplicada a qualquer problema que envolva o \textit{design} de estruturas, independentemente da escala do problema. O uso da API \textit{Comsol LiveLink For Matlab} também é uma ferramenta de projeto crucial, pois automatiza e integra vários processos.
+
+Nota-se que o poder da Inteligência Artificial, em geral, e as abordagens de Aprendizagem Profunda, em particular, têm implicações de grande impacto no campo da nanotecnologia e nanofotônica, como demonstrado no presente trabalho de \textit\imprimirtitulo, e brevemente discutido em trabalhos relacionados na Introdução deste documento. Esse avanço não se restringe somente à tecnologia, mas atinge também as empresas, os setores públicos, o mercado financeiro, etc. Esse novo olhar para a análise dos dados permite tornar os sistemas cada vez mais robustos e eficientes.
 
 
-
+\newpage
 \section{Sugestões Para Trabalhos Futuros}
 
-Dapibus gravida tristique sodales purus condimentum porttitor, aliquam vulputate condimentum donec sapien justo praesent, sociosqu pellentesque dictum eros auctor. odio amet sem pretium eros facilisis curabitur velit tempus sapien, sodales praesent rutrum interdum tincidunt habitant euismod augue, tristique vehicula tempus molestie at quisque erat potenti. lacinia pulvinar class dictumst suspendisse eget etiam, molestie lectus class aenean purus eros primis, quam purus lectus viverra est. ante eget pretium lacus torquent cras ullamcorper neque, elit platea diam nulla potenti class auctor lectus, tempor dapibus a justo aptent rhoncus. praesent aliquet purus felis nostra pellentesque odio quisque praesent porttitor, curae maecenas placerat nostra maecenas erat ac tristique, iaculis porttitor habitant aptent suscipit posuere accumsan curabitur. 
+Para trabalhos futuros, são sugeríveis os estudos:
 
-Himenaeos rutrum augue nec nunc vulputate senectus vel aptent blandit, curae pulvinar gravida enim condimentum pretium ante posuere vehicula, pellentesque ut dolor amet ante cras cubilia neque. laoreet aliquet rutrum eros mattis torquent curae habitasse, pulvinar turpis nulla convallis molestie netus tincidunt, habitant et ut integer inceptos massa. sapien etiam sed posuere viverra ullamcorper rutrum euismod, platea netus imperdiet ultrices feugiat lectus sit, cursus rutrum tincidunt mollis risus ligula. dui quisque sapien tellus curabitur proin lacus proin lorem, magna aliquam adipiscing dictum leo consequat nisl orci, etiam vitae mi eros augue mauris imperdiet.
+\begin{itemize}
+    \item Desenvolver uma abordagem de modelagem inversa em torno de Redes Neurais Adversárias Generativas (\textit{Generative Adversarial Network (GAN)}).
+    \item Averiguar o uso de Redes Neurais Convolucionais (\textit{Convolutional Neural Networks (CNN)}).
+\end{itemize}
+
+
+\section{Trabalhos Desenvolvidos}
+
+O presente \imprimirtipotrabalho\ teve contribuição aos seguintes trabalhos:
+
+\begin{itemize}
+    \item V. Dmitriev, L. Martins, G. Portela and L. H. Assunção, \textit{"Quadrupole resonator mode versus dipole one in photonic crystal ferrite circulators"}, Photonics and Nanostructures - Fundamentals and Applications, (2021). \cite{DMITRIEV2021100954}
+    \item V. Dmitriev, G. Portela, F. Nobre, W. Castro and L. H. Assunção, \textit{"Nonreciprocal Dynamically Tunable Power Dividers By Three (1x3) Based on Graphene for Terahertz Region"}, Optics Communications, (2021) \cite{Dmitriev2021Nonreciprocal}.
+\end{itemize}
+
+Para fins de consulta do leitor, o desenvolvimento de todos os \textit{scripts} podem ser consultado no repositório \textit{GitHub}:
+
+\begin{itemize}
+    \item Dispositivos baseados em cristal fotônico \cite{luizheinrich2021PhC}.
+    \item Dispositivos baseados em Grafeno \cite{luizheinrich2021Graphene}.
+\end{itemize}
